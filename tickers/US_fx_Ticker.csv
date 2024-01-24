@@ -1,0 +1,1300 @@
+,ticker,name,market,locale,active,currency_symbol,currency_name,base_currency_symbol,base_currency_name,last_updated_utc
+0,C:AEDAUD,United Arab Emirates dirham - Australian dollar,fx,global,True,AUD,Australian dollar,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+1,C:AEDBHD,United Arab Emirates dirham - Bahraini dinar,fx,global,True,BHD,Bahraini dinar,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+2,C:AEDCAD,United Arab Emirates dirham - Canadian dollar,fx,global,True,CAD,Canadian dollar,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+3,C:AEDCHF,United Arab Emirates dirham - Swiss franc,fx,global,True,CHF,Swiss franc,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+4,C:AEDDKK,United Arab Emirates dirham - Danish krone,fx,global,True,DKK,Danish krone,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+5,C:AEDEUR,United Arab Emirates dirham - Euro,fx,global,True,EUR,Euro,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+6,C:AEDGBP,United Arab Emirates dirham - Pound sterling,fx,global,True,GBP,Pound sterling,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+7,C:AEDINR,United Arab Emirates dirham - Indian rupee,fx,global,True,INR,Indian rupee,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+8,C:AEDJPY,United Arab Emirates dirham - Japanese yen,fx,global,True,JPY,Japanese yen,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+9,C:AEDNOK,United Arab Emirates dirham - Norwegian krone,fx,global,True,NOK,Norwegian krone,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+10,C:AEDNZD,United Arab Emirates dirham - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+11,C:AEDPKR,United Arab Emirates dirham - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+12,C:AEDSAR,United Arab Emirates dirham - Saudi riyal,fx,global,True,SAR,Saudi riyal,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+13,C:AEDSEK,United Arab Emirates dirham - Swedish krona,fx,global,True,SEK,Swedish krona,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+14,C:AEDUSD,United Arab Emirates dirham - United States Dollar,fx,global,True,USD,United States Dollar,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+15,C:AEDZAR,United Arab Emirates dirham - South African rand,fx,global,True,ZAR,South African rand,AED,United Arab Emirates dirham,2017-01-01T00:00:00Z
+16,C:AFNGBP,Afghan afghani - Pound sterling,fx,global,True,GBP,Pound sterling,AFN,Afghan afghani,2017-01-01T00:00:00Z
+17,C:ALLEUR,Albanian lek - Euro,fx,global,True,EUR,Euro,ALL,Albanian lek,2017-01-01T00:00:00Z
+18,C:ALLGBP,Albanian lek - Pound sterling,fx,global,True,GBP,Pound sterling,ALL,Albanian lek,2017-01-01T00:00:00Z
+19,C:ALLUSD,Albanian lek - United States Dollar,fx,global,True,USD,United States Dollar,ALL,Albanian lek,2017-01-01T00:00:00Z
+20,C:AMDGBP,Armenian dram - Pound sterling,fx,global,True,GBP,Pound sterling,AMD,Armenian dram,2017-01-01T00:00:00Z
+21,C:ARECHF,AREG - Swiss franc,fx,global,True,CHF,Swiss franc,ARE,AREG,2017-01-01T00:00:00Z
+22,C:AREUSD,AREG - United States Dollar,fx,global,True,USD,United States Dollar,ARE,AREG,2017-01-01T00:00:00Z
+23,C:ARSAUD,Argentine peso - Australian dollar,fx,global,True,AUD,Australian dollar,ARS,Argentine peso,2017-01-01T00:00:00Z
+24,C:ARSBRL,Argentine peso - Brazilian real,fx,global,True,BRL,Brazilian real,ARS,Argentine peso,2017-01-01T00:00:00Z
+25,C:ARSCAD,Argentine peso - Canadian dollar,fx,global,True,CAD,Canadian dollar,ARS,Argentine peso,2017-01-01T00:00:00Z
+26,C:ARSCHF,Argentine peso - Swiss franc,fx,global,True,CHF,Swiss franc,ARS,Argentine peso,2017-01-01T00:00:00Z
+27,C:ARSCLP,Argentine peso - Chilean peso,fx,global,True,CLP,Chilean peso,ARS,Argentine peso,2017-01-01T00:00:00Z
+28,C:ARSCOP,Argentine peso - Colombian peso,fx,global,True,COP,Colombian peso,ARS,Argentine peso,2017-01-01T00:00:00Z
+29,C:ARSEUR,Argentine peso - Euro,fx,global,True,EUR,Euro,ARS,Argentine peso,2017-01-01T00:00:00Z
+30,C:ARSGBP,Argentine peso - Pound sterling,fx,global,True,GBP,Pound sterling,ARS,Argentine peso,2017-01-01T00:00:00Z
+31,C:ARSHKD,Argentine peso - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,ARS,Argentine peso,2017-01-01T00:00:00Z
+32,C:ARSHUF,Argentine peso - Hungarian forint,fx,global,True,HUF,Hungarian forint,ARS,Argentine peso,2017-01-01T00:00:00Z
+33,C:ARSJPY,Argentine peso - Japanese yen,fx,global,True,JPY,Japanese yen,ARS,Argentine peso,2017-01-01T00:00:00Z
+34,C:ARSMXN,Argentine peso - Mexican peso,fx,global,True,MXN,Mexican peso,ARS,Argentine peso,2017-01-01T00:00:00Z
+35,C:ARSPEN,Argentine peso - Peruvian nuevo sol,fx,global,True,PEN,Peruvian nuevo sol,ARS,Argentine peso,2017-01-01T00:00:00Z
+36,C:ARSSGD,Argentine peso - Singapore dollar,fx,global,True,SGD,Singapore dollar,ARS,Argentine peso,2017-01-01T00:00:00Z
+37,C:ARSUSD,Argentine peso - United States Dollar,fx,global,True,USD,United States Dollar,ARS,Argentine peso,2017-01-01T00:00:00Z
+38,C:ARSZAR,Argentine peso - South African rand,fx,global,True,ZAR,South African rand,ARS,Argentine peso,2017-01-01T00:00:00Z
+39,C:AUDAED,Australian dollar - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,AUD,Australian dollar,2017-01-01T00:00:00Z
+40,C:AUDARS,Australian dollar - Argentine peso,fx,global,True,ARS,Argentine peso,AUD,Australian dollar,2017-01-01T00:00:00Z
+41,C:AUDBGN,Australian dollar - Bulgarian lev,fx,global,True,BGN,Bulgarian lev,AUD,Australian dollar,2017-01-01T00:00:00Z
+42,C:AUDBRL,Australian dollar - Brazilian real,fx,global,True,BRL,Brazilian real,AUD,Australian dollar,2017-01-01T00:00:00Z
+43,C:AUDCAD,Australian dollar - Canadian dollar,fx,global,True,CAD,Canadian dollar,AUD,Australian dollar,2017-01-01T00:00:00Z
+44,C:AUDCHF,Australian dollar - Swiss franc,fx,global,True,CHF,Swiss franc,AUD,Australian dollar,2017-01-01T00:00:00Z
+45,C:AUDCLP,Australian dollar - Chilean peso,fx,global,True,CLP,Chilean peso,AUD,Australian dollar,2017-01-01T00:00:00Z
+46,C:AUDCNH,Australian dollar - Chinese yuan,fx,global,True,CNH,Chinese yuan,AUD,Australian dollar,2017-01-01T00:00:00Z
+47,C:AUDCNY,Australian dollar - Chinese yuan,fx,global,True,CNY,Chinese yuan,AUD,Australian dollar,2017-01-01T00:00:00Z
+48,C:AUDCZK,Australian dollar - Czech koruna,fx,global,True,CZK,Czech koruna,AUD,Australian dollar,2017-01-01T00:00:00Z
+49,C:AUDDKK,Australian dollar - Danish krone,fx,global,True,DKK,Danish krone,AUD,Australian dollar,2017-01-01T00:00:00Z
+50,C:AUDEUR,Australian dollar - Euro,fx,global,True,EUR,Euro,AUD,Australian dollar,2017-01-01T00:00:00Z
+51,C:AUDFJD,Australian dollar - Fiji dollar,fx,global,True,FJD,Fiji dollar,AUD,Australian dollar,2017-01-01T00:00:00Z
+52,C:AUDGBP,Australian dollar - Pound sterling,fx,global,True,GBP,Pound sterling,AUD,Australian dollar,2017-01-01T00:00:00Z
+53,C:AUDHKD,Australian dollar - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,AUD,Australian dollar,2017-01-01T00:00:00Z
+54,C:AUDHRK,Australian dollar - Croatian kuna,fx,global,True,HRK,Croatian kuna,AUD,Australian dollar,2017-01-01T00:00:00Z
+55,C:AUDHUF,Australian dollar - Hungarian forint,fx,global,True,HUF,Hungarian forint,AUD,Australian dollar,2017-01-01T00:00:00Z
+56,C:AUDIDR,Australian dollar - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,AUD,Australian dollar,2017-01-01T00:00:00Z
+57,C:AUDILS,Australian dollar - Israeli new shekel,fx,global,True,ILS,Israeli new shekel,AUD,Australian dollar,2017-01-01T00:00:00Z
+58,C:AUDINR,Australian dollar - Indian rupee,fx,global,True,INR,Indian rupee,AUD,Australian dollar,2017-01-01T00:00:00Z
+59,C:AUDJPY,Australian dollar - Japanese yen,fx,global,True,JPY,Japanese yen,AUD,Australian dollar,2017-01-01T00:00:00Z
+60,C:AUDKRW,Australian dollar - South Korean won,fx,global,True,KRW,South Korean won,AUD,Australian dollar,2017-01-01T00:00:00Z
+61,C:AUDLTL,Australian dollar - Lithuanian litas,fx,global,True,LTL,Lithuanian litas,AUD,Australian dollar,2017-01-01T00:00:00Z
+62,C:AUDMAD,Australian dollar - Moroccan dirham,fx,global,True,MAD,Moroccan dirham,AUD,Australian dollar,2017-01-01T00:00:00Z
+63,C:AUDMXN,Australian dollar - Mexican peso,fx,global,True,MXN,Mexican peso,AUD,Australian dollar,2017-01-01T00:00:00Z
+64,C:AUDMYR,Australian dollar - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,AUD,Australian dollar,2017-01-01T00:00:00Z
+65,C:AUDNOK,Australian dollar - Norwegian krone,fx,global,True,NOK,Norwegian krone,AUD,Australian dollar,2017-01-01T00:00:00Z
+66,C:AUDNZD,Australian dollar - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,AUD,Australian dollar,2017-01-01T00:00:00Z
+67,C:AUDPGK,Australian dollar - Papua New Guinean kina,fx,global,True,PGK,Papua New Guinean kina,AUD,Australian dollar,2017-01-01T00:00:00Z
+68,C:AUDPHP,Australian dollar - Philippine peso,fx,global,True,PHP,Philippine peso,AUD,Australian dollar,2017-01-01T00:00:00Z
+69,C:AUDPKR,Australian dollar - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,AUD,Australian dollar,2017-01-01T00:00:00Z
+70,C:AUDPLN,Australian dollar - Polish złoty,fx,global,True,PLN,Polish złoty,AUD,Australian dollar,2017-01-01T00:00:00Z
+71,C:AUDRUB,Australian dollar - Russian rouble,fx,global,True,RUB,Russian rouble,AUD,Australian dollar,2017-01-01T00:00:00Z
+72,C:AUDSEK,Australian dollar - Swedish krona,fx,global,True,SEK,Swedish krona,AUD,Australian dollar,2017-01-01T00:00:00Z
+73,C:AUDSGD,Australian dollar - Singapore dollar,fx,global,True,SGD,Singapore dollar,AUD,Australian dollar,2017-01-01T00:00:00Z
+74,C:AUDTHB,Australian dollar - Thai baht,fx,global,True,THB,Thai baht,AUD,Australian dollar,2017-01-01T00:00:00Z
+75,C:AUDTRY,Australian dollar - Turkish lira,fx,global,True,TRY,Turkish lira,AUD,Australian dollar,2017-01-01T00:00:00Z
+76,C:AUDTWD,Australian dollar - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,AUD,Australian dollar,2017-01-01T00:00:00Z
+77,C:AUDUSD,Australian dollar - United States Dollar,fx,global,True,USD,United States Dollar,AUD,Australian dollar,2017-01-01T00:00:00Z
+78,C:AUDZAR,Australian dollar - South African rand,fx,global,True,ZAR,South African rand,AUD,Australian dollar,2017-01-01T00:00:00Z
+79,C:AUNCHF,Australian nugget - Swiss franc,fx,global,True,CHF,Swiss franc,AUN,Australian nugget,2017-01-01T00:00:00Z
+80,C:AUNUSD,Australian nugget - United States Dollar,fx,global,True,USD,United States Dollar,AUN,Australian nugget,2017-01-01T00:00:00Z
+81,C:AWGGBP,Aruban florin - Pound sterling,fx,global,True,GBP,Pound sterling,AWG,Aruban florin,2017-01-01T00:00:00Z
+82,C:AWGUSD,Aruban florin - United States Dollar,fx,global,True,USD,United States Dollar,AWG,Aruban florin,2017-01-01T00:00:00Z
+83,C:BAMGBP,Bosnia and Herzegovina convertible mark - Pound sterling,fx,global,True,GBP,Pound sterling,BAM,Bosnia and Herzegovina convertible mark,2017-01-01T00:00:00Z
+84,C:BAMUSD,Bosnia and Herzegovina convertible mark - United States Dollar,fx,global,True,USD,United States Dollar,BAM,Bosnia and Herzegovina convertible mark,2017-01-01T00:00:00Z
+85,C:BBDEUR,Barbados dollar - Euro,fx,global,True,EUR,Euro,BBD,Barbados dollar,2017-01-01T00:00:00Z
+86,C:BBDGBP,Barbados dollar - Pound sterling,fx,global,True,GBP,Pound sterling,BBD,Barbados dollar,2017-01-01T00:00:00Z
+87,C:BBDUSD,Barbados dollar - United States Dollar,fx,global,True,USD,United States Dollar,BBD,Barbados dollar,2017-01-01T00:00:00Z
+88,C:BDTGBP,Bangladeshi taka - Pound sterling,fx,global,True,GBP,Pound sterling,BDT,Bangladeshi taka,2017-01-01T00:00:00Z
+89,C:BDTJPY,Bangladeshi taka - Japanese yen,fx,global,True,JPY,Japanese yen,BDT,Bangladeshi taka,2017-01-01T00:00:00Z
+90,C:BDTUSD,Bangladeshi taka - United States Dollar,fx,global,True,USD,United States Dollar,BDT,Bangladeshi taka,2017-01-01T00:00:00Z
+91,C:BGNAUD,Bulgarian lev - Australian dollar,fx,global,True,AUD,Australian dollar,BGN,Bulgarian lev,2017-01-01T00:00:00Z
+92,C:BGNCAD,Bulgarian lev - Canadian dollar,fx,global,True,CAD,Canadian dollar,BGN,Bulgarian lev,2017-01-01T00:00:00Z
+93,C:BGNCNY,Bulgarian lev - Chinese yuan,fx,global,True,CNY,Chinese yuan,BGN,Bulgarian lev,2017-01-01T00:00:00Z
+94,C:BGNDKK,Bulgarian lev - Danish krone,fx,global,True,DKK,Danish krone,BGN,Bulgarian lev,2017-01-01T00:00:00Z
+95,C:BGNPLN,Bulgarian lev - Polish złoty,fx,global,True,PLN,Polish złoty,BGN,Bulgarian lev,2017-01-01T00:00:00Z
+96,C:BGNUSD,Bulgarian lev - United States Dollar,fx,global,True,USD,United States Dollar,BGN,Bulgarian lev,2017-01-01T00:00:00Z
+97,C:BHDEUR,Bahraini dinar - Euro,fx,global,True,EUR,Euro,BHD,Bahraini dinar,2017-01-01T00:00:00Z
+98,C:BHDPKR,Bahraini dinar - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,BHD,Bahraini dinar,2017-01-01T00:00:00Z
+99,C:BHDUSD,Bahraini dinar - United States Dollar,fx,global,True,USD,United States Dollar,BHD,Bahraini dinar,2017-01-01T00:00:00Z
+100,C:BIFUSD,Burundian franc - United States Dollar,fx,global,True,USD,United States Dollar,BIF,Burundian franc,2017-01-01T00:00:00Z
+101,C:BMDBBD,Bermudian dollar - Barbados dollar,fx,global,True,BBD,Barbados dollar,BMD,Bermudian dollar,2017-01-01T00:00:00Z
+102,C:BMDCAD,Bermudian dollar - Canadian dollar,fx,global,True,CAD,Canadian dollar,BMD,Bermudian dollar,2017-01-01T00:00:00Z
+103,C:BMDEUR,Bermudian dollar - Euro,fx,global,True,EUR,Euro,BMD,Bermudian dollar,2017-01-01T00:00:00Z
+104,C:BMDGBP,Bermudian dollar - Pound sterling,fx,global,True,GBP,Pound sterling,BMD,Bermudian dollar,2017-01-01T00:00:00Z
+105,C:BMDKYD,Bermudian dollar - Cayman Islands dollar,fx,global,True,KYD,Cayman Islands dollar,BMD,Bermudian dollar,2017-01-01T00:00:00Z
+106,C:BNDGBP,Brunei dollar - Pound sterling,fx,global,True,GBP,Pound sterling,BND,Brunei dollar,2017-01-01T00:00:00Z
+107,C:BNDUSD,Brunei dollar - United States Dollar,fx,global,True,USD,United States Dollar,BND,Brunei dollar,2017-01-01T00:00:00Z
+108,C:BOBGBP,Boliviano - Pound sterling,fx,global,True,GBP,Pound sterling,BOB,Boliviano,2017-01-01T00:00:00Z
+109,C:BOBUSD,Boliviano - United States Dollar,fx,global,True,USD,United States Dollar,BOB,Boliviano,2017-01-01T00:00:00Z
+110,C:BRICHF,Britannia - Swiss franc,fx,global,True,CHF,Swiss franc,BRI,Britannia,2017-01-01T00:00:00Z
+111,C:BRIUSD,Britannia - United States Dollar,fx,global,True,USD,United States Dollar,BRI,Britannia,2017-01-01T00:00:00Z
+112,C:BRLARS,Brazilian real - Argentine peso,fx,global,True,ARS,Argentine peso,BRL,Brazilian real,2017-01-01T00:00:00Z
+113,C:BRLAUD,Brazilian real - Australian dollar,fx,global,True,AUD,Australian dollar,BRL,Brazilian real,2017-01-01T00:00:00Z
+114,C:BRLCAD,Brazilian real - Canadian dollar,fx,global,True,CAD,Canadian dollar,BRL,Brazilian real,2017-01-01T00:00:00Z
+115,C:BRLCHF,Brazilian real - Swiss franc,fx,global,True,CHF,Swiss franc,BRL,Brazilian real,2017-01-01T00:00:00Z
+116,C:BRLCLP,Brazilian real - Chilean peso,fx,global,True,CLP,Chilean peso,BRL,Brazilian real,2017-01-01T00:00:00Z
+117,C:BRLCOP,Brazilian real - Colombian peso,fx,global,True,COP,Colombian peso,BRL,Brazilian real,2017-01-01T00:00:00Z
+118,C:BRLEUR,Brazilian real - Euro,fx,global,True,EUR,Euro,BRL,Brazilian real,2017-01-01T00:00:00Z
+119,C:BRLHKD,Brazilian real - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,BRL,Brazilian real,2017-01-01T00:00:00Z
+120,C:BRLJPY,Brazilian real - Japanese yen,fx,global,True,JPY,Japanese yen,BRL,Brazilian real,2017-01-01T00:00:00Z
+121,C:BRLKRW,Brazilian real - South Korean won,fx,global,True,KRW,South Korean won,BRL,Brazilian real,2017-01-01T00:00:00Z
+122,C:BRLMXN,Brazilian real - Mexican peso,fx,global,True,MXN,Mexican peso,BRL,Brazilian real,2017-01-01T00:00:00Z
+123,C:BRLPEN,Brazilian real - Peruvian nuevo sol,fx,global,True,PEN,Peruvian nuevo sol,BRL,Brazilian real,2017-01-01T00:00:00Z
+124,C:BRLRSD,Brazilian real - Serbian dinar,fx,global,True,RSD,Serbian dinar,BRL,Brazilian real,2017-01-01T00:00:00Z
+125,C:BRLRUB,Brazilian real - Russian rouble,fx,global,True,RUB,Russian rouble,BRL,Brazilian real,2017-01-01T00:00:00Z
+126,C:BRLSEK,Brazilian real - Swedish krona,fx,global,True,SEK,Swedish krona,BRL,Brazilian real,2017-01-01T00:00:00Z
+127,C:BRLSGD,Brazilian real - Singapore dollar,fx,global,True,SGD,Singapore dollar,BRL,Brazilian real,2017-01-01T00:00:00Z
+128,C:BRLUSD,Brazilian real - United States Dollar,fx,global,True,USD,United States Dollar,BRL,Brazilian real,2017-01-01T00:00:00Z
+129,C:BRLZAR,Brazilian real - South African rand,fx,global,True,ZAR,South African rand,BRL,Brazilian real,2017-01-01T00:00:00Z
+130,C:BSDGBP,Bahamian dollar - Pound sterling,fx,global,True,GBP,Pound sterling,BSD,Bahamian dollar,2017-01-01T00:00:00Z
+131,C:BSDUSD,Bahamian dollar - United States Dollar,fx,global,True,USD,United States Dollar,BSD,Bahamian dollar,2017-01-01T00:00:00Z
+132,C:BTNGBP,Bhutanese ngultrum - Pound sterling,fx,global,True,GBP,Pound sterling,BTN,Bhutanese ngultrum,2017-01-01T00:00:00Z
+133,C:BWPCHF,Botswana pula - Swiss franc,fx,global,True,CHF,Swiss franc,BWP,Botswana pula,2017-01-01T00:00:00Z
+134,C:BWPEUR,Botswana pula - Euro,fx,global,True,EUR,Euro,BWP,Botswana pula,2017-01-01T00:00:00Z
+135,C:BWPGBP,Botswana pula - Pound sterling,fx,global,True,GBP,Pound sterling,BWP,Botswana pula,2017-01-01T00:00:00Z
+136,C:BWPJPY,Botswana pula - Japanese yen,fx,global,True,JPY,Japanese yen,BWP,Botswana pula,2017-01-01T00:00:00Z
+137,C:BWPUSD,Botswana pula - United States Dollar,fx,global,True,USD,United States Dollar,BWP,Botswana pula,2017-01-01T00:00:00Z
+138,C:BWPZAR,Botswana pula - South African rand,fx,global,True,ZAR,South African rand,BWP,Botswana pula,2017-01-01T00:00:00Z
+139,C:BZDUSD,Belize dollar - United States Dollar,fx,global,True,USD,United States Dollar,BZD,Belize dollar,2017-01-01T00:00:00Z
+140,C:CADAED,Canadian dollar - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,CAD,Canadian dollar,2017-01-01T00:00:00Z
+141,C:CADARS,Canadian dollar - Argentine peso,fx,global,True,ARS,Argentine peso,CAD,Canadian dollar,2017-01-01T00:00:00Z
+142,C:CADAUD,Canadian dollar - Australian dollar,fx,global,True,AUD,Australian dollar,CAD,Canadian dollar,2017-01-01T00:00:00Z
+143,C:CADBGN,Canadian dollar - Bulgarian lev,fx,global,True,BGN,Bulgarian lev,CAD,Canadian dollar,2017-01-01T00:00:00Z
+144,C:CADBMD,Canadian dollar - Bermudian dollar,fx,global,True,BMD,Bermudian dollar,CAD,Canadian dollar,2017-01-01T00:00:00Z
+145,C:CADBRL,Canadian dollar - Brazilian real,fx,global,True,BRL,Brazilian real,CAD,Canadian dollar,2017-01-01T00:00:00Z
+146,C:CADCHF,Canadian dollar - Swiss franc,fx,global,True,CHF,Swiss franc,CAD,Canadian dollar,2017-01-01T00:00:00Z
+147,C:CADCNY,Canadian dollar - Chinese yuan,fx,global,True,CNY,Chinese yuan,CAD,Canadian dollar,2017-01-01T00:00:00Z
+148,C:CADCOP,Canadian dollar - Colombian peso,fx,global,True,COP,Colombian peso,CAD,Canadian dollar,2017-01-01T00:00:00Z
+149,C:CADCZK,Canadian dollar - Czech koruna,fx,global,True,CZK,Czech koruna,CAD,Canadian dollar,2017-01-01T00:00:00Z
+150,C:CADDKK,Canadian dollar - Danish krone,fx,global,True,DKK,Danish krone,CAD,Canadian dollar,2017-01-01T00:00:00Z
+151,C:CADEUR,Canadian dollar - Euro,fx,global,True,EUR,Euro,CAD,Canadian dollar,2017-01-01T00:00:00Z
+152,C:CADGBP,Canadian dollar - Pound sterling,fx,global,True,GBP,Pound sterling,CAD,Canadian dollar,2017-01-01T00:00:00Z
+153,C:CADHKD,Canadian dollar - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,CAD,Canadian dollar,2017-01-01T00:00:00Z
+154,C:CADHRK,Canadian dollar - Croatian kuna,fx,global,True,HRK,Croatian kuna,CAD,Canadian dollar,2017-01-01T00:00:00Z
+155,C:CADHUF,Canadian dollar - Hungarian forint,fx,global,True,HUF,Hungarian forint,CAD,Canadian dollar,2017-01-01T00:00:00Z
+156,C:CADIDR,Canadian dollar - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,CAD,Canadian dollar,2017-01-01T00:00:00Z
+157,C:CADILS,Canadian dollar - Israeli new shekel,fx,global,True,ILS,Israeli new shekel,CAD,Canadian dollar,2017-01-01T00:00:00Z
+158,C:CADINR,Canadian dollar - Indian rupee,fx,global,True,INR,Indian rupee,CAD,Canadian dollar,2017-01-01T00:00:00Z
+159,C:CADISK,Canadian dollar - Icelandic króna,fx,global,True,ISK,Icelandic króna,CAD,Canadian dollar,2017-01-01T00:00:00Z
+160,C:CADJPY,Canadian dollar - Japanese yen,fx,global,True,JPY,Japanese yen,CAD,Canadian dollar,2017-01-01T00:00:00Z
+161,C:CADKRW,Canadian dollar - South Korean won,fx,global,True,KRW,South Korean won,CAD,Canadian dollar,2017-01-01T00:00:00Z
+162,C:CADKWD,Canadian dollar - Kuwaiti dinar,fx,global,True,KWD,Kuwaiti dinar,CAD,Canadian dollar,2017-01-01T00:00:00Z
+163,C:CADKYD,Canadian dollar - Cayman Islands dollar,fx,global,True,KYD,Cayman Islands dollar,CAD,Canadian dollar,2017-01-01T00:00:00Z
+164,C:CADMXN,Canadian dollar - Mexican peso,fx,global,True,MXN,Mexican peso,CAD,Canadian dollar,2017-01-01T00:00:00Z
+165,C:CADMYR,Canadian dollar - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,CAD,Canadian dollar,2017-01-01T00:00:00Z
+166,C:CADNOK,Canadian dollar - Norwegian krone,fx,global,True,NOK,Norwegian krone,CAD,Canadian dollar,2017-01-01T00:00:00Z
+167,C:CADNZD,Canadian dollar - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,CAD,Canadian dollar,2017-01-01T00:00:00Z
+168,C:CADPEN,Canadian dollar - Peruvian nuevo sol,fx,global,True,PEN,Peruvian nuevo sol,CAD,Canadian dollar,2017-01-01T00:00:00Z
+169,C:CADPKR,Canadian dollar - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,CAD,Canadian dollar,2017-01-01T00:00:00Z
+170,C:CADPLN,Canadian dollar - Polish złoty,fx,global,True,PLN,Polish złoty,CAD,Canadian dollar,2017-01-01T00:00:00Z
+171,C:CADRUB,Canadian dollar - Russian rouble,fx,global,True,RUB,Russian rouble,CAD,Canadian dollar,2017-01-01T00:00:00Z
+172,C:CADSAR,Canadian dollar - Saudi riyal,fx,global,True,SAR,Saudi riyal,CAD,Canadian dollar,2017-01-01T00:00:00Z
+173,C:CADSEK,Canadian dollar - Swedish krona,fx,global,True,SEK,Swedish krona,CAD,Canadian dollar,2017-01-01T00:00:00Z
+174,C:CADSGD,Canadian dollar - Singapore dollar,fx,global,True,SGD,Singapore dollar,CAD,Canadian dollar,2017-01-01T00:00:00Z
+175,C:CADTHB,Canadian dollar - Thai baht,fx,global,True,THB,Thai baht,CAD,Canadian dollar,2017-01-01T00:00:00Z
+176,C:CADTRY,Canadian dollar - Turkish lira,fx,global,True,TRY,Turkish lira,CAD,Canadian dollar,2017-01-01T00:00:00Z
+177,C:CADTWD,Canadian dollar - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,CAD,Canadian dollar,2017-01-01T00:00:00Z
+178,C:CADUSD,Canadian dollar - United States Dollar,fx,global,True,USD,United States Dollar,CAD,Canadian dollar,2017-01-01T00:00:00Z
+179,C:CADVND,Canadian dollar - Vietnamese dong,fx,global,True,VND,Vietnamese dong,CAD,Canadian dollar,2017-01-01T00:00:00Z
+180,C:CADZAR,Canadian dollar - South African rand,fx,global,True,ZAR,South African rand,CAD,Canadian dollar,2017-01-01T00:00:00Z
+181,C:CDFGBP,Congolese franc - Pound sterling,fx,global,True,GBP,Pound sterling,CDF,Congolese franc,2017-01-01T00:00:00Z
+182,C:CDFUSD,Congolese franc - United States Dollar,fx,global,True,USD,United States Dollar,CDF,Congolese franc,2017-01-01T00:00:00Z
+183,C:CHFAED,Swiss franc - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,CHF,Swiss franc,2017-01-01T00:00:00Z
+184,C:CHFARS,Swiss franc - Argentine peso,fx,global,True,ARS,Argentine peso,CHF,Swiss franc,2017-01-01T00:00:00Z
+185,C:CHFAUD,Swiss franc - Australian dollar,fx,global,True,AUD,Australian dollar,CHF,Swiss franc,2017-01-01T00:00:00Z
+186,C:CHFBGN,Swiss franc - Bulgarian lev,fx,global,True,BGN,Bulgarian lev,CHF,Swiss franc,2017-01-01T00:00:00Z
+187,C:CHFBRL,Swiss franc - Brazilian real,fx,global,True,BRL,Brazilian real,CHF,Swiss franc,2017-01-01T00:00:00Z
+188,C:CHFBWP,Swiss franc - Botswana pula,fx,global,True,BWP,Botswana pula,CHF,Swiss franc,2017-01-01T00:00:00Z
+189,C:CHFCAD,Swiss franc - Canadian dollar,fx,global,True,CAD,Canadian dollar,CHF,Swiss franc,2017-01-01T00:00:00Z
+190,C:CHFCLP,Swiss franc - Chilean peso,fx,global,True,CLP,Chilean peso,CHF,Swiss franc,2017-01-01T00:00:00Z
+191,C:CHFCNY,Swiss franc - Chinese yuan,fx,global,True,CNY,Chinese yuan,CHF,Swiss franc,2017-01-01T00:00:00Z
+192,C:CHFCZK,Swiss franc - Czech koruna,fx,global,True,CZK,Czech koruna,CHF,Swiss franc,2017-01-01T00:00:00Z
+193,C:CHFDKK,Swiss franc - Danish krone,fx,global,True,DKK,Danish krone,CHF,Swiss franc,2017-01-01T00:00:00Z
+194,C:CHFEUR,Swiss franc - Euro,fx,global,True,EUR,Euro,CHF,Swiss franc,2017-01-01T00:00:00Z
+195,C:CHFGBP,Swiss franc - Pound sterling,fx,global,True,GBP,Pound sterling,CHF,Swiss franc,2017-01-01T00:00:00Z
+196,C:CHFHKD,Swiss franc - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,CHF,Swiss franc,2017-01-01T00:00:00Z
+197,C:CHFHUF,Swiss franc - Hungarian forint,fx,global,True,HUF,Hungarian forint,CHF,Swiss franc,2017-01-01T00:00:00Z
+198,C:CHFIDR,Swiss franc - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,CHF,Swiss franc,2017-01-01T00:00:00Z
+199,C:CHFILS,Swiss franc - Israeli new shekel,fx,global,True,ILS,Israeli new shekel,CHF,Swiss franc,2017-01-01T00:00:00Z
+200,C:CHFINR,Swiss franc - Indian rupee,fx,global,True,INR,Indian rupee,CHF,Swiss franc,2017-01-01T00:00:00Z
+201,C:CHFISK,Swiss franc - Icelandic króna,fx,global,True,ISK,Icelandic króna,CHF,Swiss franc,2017-01-01T00:00:00Z
+202,C:CHFJPY,Swiss franc - Japanese yen,fx,global,True,JPY,Japanese yen,CHF,Swiss franc,2017-01-01T00:00:00Z
+203,C:CHFKRW,Swiss franc - South Korean won,fx,global,True,KRW,South Korean won,CHF,Swiss franc,2017-01-01T00:00:00Z
+204,C:CHFMXN,Swiss franc - Mexican peso,fx,global,True,MXN,Mexican peso,CHF,Swiss franc,2017-01-01T00:00:00Z
+205,C:CHFMYR,Swiss franc - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,CHF,Swiss franc,2017-01-01T00:00:00Z
+206,C:CHFNOK,Swiss franc - Norwegian krone,fx,global,True,NOK,Norwegian krone,CHF,Swiss franc,2017-01-01T00:00:00Z
+207,C:CHFNZD,Swiss franc - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,CHF,Swiss franc,2017-01-01T00:00:00Z
+208,C:CHFPKR,Swiss franc - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,CHF,Swiss franc,2017-01-01T00:00:00Z
+209,C:CHFPLN,Swiss franc - Polish złoty,fx,global,True,PLN,Polish złoty,CHF,Swiss franc,2017-01-01T00:00:00Z
+210,C:CHFRON,Swiss franc - Romanian new leu,fx,global,True,RON,Romanian new leu,CHF,Swiss franc,2017-01-01T00:00:00Z
+211,C:CHFRSD,Swiss franc - Serbian dinar,fx,global,True,RSD,Serbian dinar,CHF,Swiss franc,2017-01-01T00:00:00Z
+212,C:CHFRUB,Swiss franc - Russian rouble,fx,global,True,RUB,Russian rouble,CHF,Swiss franc,2017-01-01T00:00:00Z
+213,C:CHFSEK,Swiss franc - Swedish krona,fx,global,True,SEK,Swedish krona,CHF,Swiss franc,2017-01-01T00:00:00Z
+214,C:CHFSGD,Swiss franc - Singapore dollar,fx,global,True,SGD,Singapore dollar,CHF,Swiss franc,2017-01-01T00:00:00Z
+215,C:CHFSZL,Swiss franc - Swazi lilangeni,fx,global,True,SZL,Swazi lilangeni,CHF,Swiss franc,2017-01-01T00:00:00Z
+216,C:CHFTHB,Swiss franc - Thai baht,fx,global,True,THB,Thai baht,CHF,Swiss franc,2017-01-01T00:00:00Z
+217,C:CHFTRY,Swiss franc - Turkish lira,fx,global,True,TRY,Turkish lira,CHF,Swiss franc,2017-01-01T00:00:00Z
+218,C:CHFTWD,Swiss franc - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,CHF,Swiss franc,2017-01-01T00:00:00Z
+219,C:CHFUSD,Swiss franc - United States Dollar,fx,global,True,USD,United States Dollar,CHF,Swiss franc,2017-01-01T00:00:00Z
+220,C:CHFUZS,Swiss franc - Uzbekistan som,fx,global,True,UZS,Uzbekistan som,CHF,Swiss franc,2017-01-01T00:00:00Z
+221,C:CHFZAR,Swiss franc - South African rand,fx,global,True,ZAR,South African rand,CHF,Swiss franc,2017-01-01T00:00:00Z
+222,C:CLPARS,Chilean peso - Argentine peso,fx,global,True,ARS,Argentine peso,CLP,Chilean peso,2017-01-01T00:00:00Z
+223,C:CLPAUD,Chilean peso - Australian dollar,fx,global,True,AUD,Australian dollar,CLP,Chilean peso,2017-01-01T00:00:00Z
+224,C:CLPBRL,Chilean peso - Brazilian real,fx,global,True,BRL,Brazilian real,CLP,Chilean peso,2017-01-01T00:00:00Z
+225,C:CLPCHF,Chilean peso - Swiss franc,fx,global,True,CHF,Swiss franc,CLP,Chilean peso,2017-01-01T00:00:00Z
+226,C:CLPCNY,Chilean peso - Chinese yuan,fx,global,True,CNY,Chinese yuan,CLP,Chilean peso,2017-01-01T00:00:00Z
+227,C:CLPCOP,Chilean peso - Colombian peso,fx,global,True,COP,Colombian peso,CLP,Chilean peso,2017-01-01T00:00:00Z
+228,C:CLPEUR,Chilean peso - Euro,fx,global,True,EUR,Euro,CLP,Chilean peso,2017-01-01T00:00:00Z
+229,C:CLPGBP,Chilean peso - Pound sterling,fx,global,True,GBP,Pound sterling,CLP,Chilean peso,2017-01-01T00:00:00Z
+230,C:CLPMXN,Chilean peso - Mexican peso,fx,global,True,MXN,Mexican peso,CLP,Chilean peso,2017-01-01T00:00:00Z
+231,C:CLPPEN,Chilean peso - Peruvian nuevo sol,fx,global,True,PEN,Peruvian nuevo sol,CLP,Chilean peso,2017-01-01T00:00:00Z
+232,C:CLPUSD,Chilean peso - United States Dollar,fx,global,True,USD,United States Dollar,CLP,Chilean peso,2017-01-01T00:00:00Z
+233,C:CNHHKD,Chinese yuan - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,CNH,Chinese yuan,2017-01-01T00:00:00Z
+234,C:CNHJPY,Chinese yuan - Japanese yen,fx,global,True,JPY,Japanese yen,CNH,Chinese yuan,2017-01-01T00:00:00Z
+235,C:CNHUSD,Chinese yuan - United States Dollar,fx,global,True,USD,United States Dollar,CNH,Chinese yuan,2017-01-01T00:00:00Z
+236,C:CNYAUD,Chinese yuan - Australian dollar,fx,global,True,AUD,Australian dollar,CNY,Chinese yuan,2017-01-01T00:00:00Z
+237,C:CNYBGN,Chinese yuan - Bulgarian lev,fx,global,True,BGN,Bulgarian lev,CNY,Chinese yuan,2017-01-01T00:00:00Z
+238,C:CNYCAD,Chinese yuan - Canadian dollar,fx,global,True,CAD,Canadian dollar,CNY,Chinese yuan,2017-01-01T00:00:00Z
+239,C:CNYCHF,Chinese yuan - Swiss franc,fx,global,True,CHF,Swiss franc,CNY,Chinese yuan,2017-01-01T00:00:00Z
+240,C:CNYCLP,Chinese yuan - Chilean peso,fx,global,True,CLP,Chilean peso,CNY,Chinese yuan,2017-01-01T00:00:00Z
+241,C:CNYDKK,Chinese yuan - Danish krone,fx,global,True,DKK,Danish krone,CNY,Chinese yuan,2017-01-01T00:00:00Z
+242,C:CNYEUR,Chinese yuan - Euro,fx,global,True,EUR,Euro,CNY,Chinese yuan,2017-01-01T00:00:00Z
+243,C:CNYGBP,Chinese yuan - Pound sterling,fx,global,True,GBP,Pound sterling,CNY,Chinese yuan,2017-01-01T00:00:00Z
+244,C:CNYHKD,Chinese yuan - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,CNY,Chinese yuan,2017-01-01T00:00:00Z
+245,C:CNYINR,Chinese yuan - Indian rupee,fx,global,True,INR,Indian rupee,CNY,Chinese yuan,2017-01-01T00:00:00Z
+246,C:CNYJPY,Chinese yuan - Japanese yen,fx,global,True,JPY,Japanese yen,CNY,Chinese yuan,2017-01-01T00:00:00Z
+247,C:CNYKRW,Chinese yuan - South Korean won,fx,global,True,KRW,South Korean won,CNY,Chinese yuan,2017-01-01T00:00:00Z
+248,C:CNYNZD,Chinese yuan - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,CNY,Chinese yuan,2017-01-01T00:00:00Z
+249,C:CNYPLN,Chinese yuan - Polish złoty,fx,global,True,PLN,Polish złoty,CNY,Chinese yuan,2017-01-01T00:00:00Z
+250,C:CNYSGD,Chinese yuan - Singapore dollar,fx,global,True,SGD,Singapore dollar,CNY,Chinese yuan,2017-01-01T00:00:00Z
+251,C:CNYUSD,Chinese yuan - United States Dollar,fx,global,True,USD,United States Dollar,CNY,Chinese yuan,2017-01-01T00:00:00Z
+252,C:CNYZAR,Chinese yuan - South African rand,fx,global,True,ZAR,South African rand,CNY,Chinese yuan,2017-01-01T00:00:00Z
+253,C:COPARS,Colombian peso - Argentine peso,fx,global,True,ARS,Argentine peso,COP,Colombian peso,2017-01-01T00:00:00Z
+254,C:COPBRL,Colombian peso - Brazilian real,fx,global,True,BRL,Brazilian real,COP,Colombian peso,2017-01-01T00:00:00Z
+255,C:COPCAD,Colombian peso - Canadian dollar,fx,global,True,CAD,Canadian dollar,COP,Colombian peso,2017-01-01T00:00:00Z
+256,C:COPCLP,Colombian peso - Chilean peso,fx,global,True,CLP,Chilean peso,COP,Colombian peso,2017-01-01T00:00:00Z
+257,C:COPDKK,Colombian peso - Danish krone,fx,global,True,DKK,Danish krone,COP,Colombian peso,2017-01-01T00:00:00Z
+258,C:COPMXN,Colombian peso - Mexican peso,fx,global,True,MXN,Mexican peso,COP,Colombian peso,2017-01-01T00:00:00Z
+259,C:COPPLN,Colombian peso - Polish złoty,fx,global,True,PLN,Polish złoty,COP,Colombian peso,2017-01-01T00:00:00Z
+260,C:COPUSD,Colombian peso - United States Dollar,fx,global,True,USD,United States Dollar,COP,Colombian peso,2017-01-01T00:00:00Z
+261,C:COPZAR,Colombian peso - South African rand,fx,global,True,ZAR,South African rand,COP,Colombian peso,2017-01-01T00:00:00Z
+262,C:CRCGBP,Costa Rican colon - Pound sterling,fx,global,True,GBP,Pound sterling,CRC,Costa Rican colon,2017-01-01T00:00:00Z
+263,C:CRCUSD,Costa Rican colon - United States Dollar,fx,global,True,USD,United States Dollar,CRC,Costa Rican colon,2017-01-01T00:00:00Z
+264,C:CUPUSD,Cuban peso - United States Dollar,fx,global,True,USD,United States Dollar,CUP,Cuban peso,2017-01-01T00:00:00Z
+265,C:CYPZAR,Cypriot pound - South African rand,fx,global,True,ZAR,South African rand,CYP,Cypriot pound,2017-01-01T00:00:00Z
+266,C:CZKCAD,Czech koruna - Canadian dollar,fx,global,True,CAD,Canadian dollar,CZK,Czech koruna,2017-01-01T00:00:00Z
+267,C:CZKCHF,Czech koruna - Swiss franc,fx,global,True,CHF,Swiss franc,CZK,Czech koruna,2017-01-01T00:00:00Z
+268,C:CZKDKK,Czech koruna - Danish krone,fx,global,True,DKK,Danish krone,CZK,Czech koruna,2017-01-01T00:00:00Z
+269,C:CZKEUR,Czech koruna - Euro,fx,global,True,EUR,Euro,CZK,Czech koruna,2017-01-01T00:00:00Z
+270,C:CZKJPY,Czech koruna - Japanese yen,fx,global,True,JPY,Japanese yen,CZK,Czech koruna,2017-01-01T00:00:00Z
+271,C:CZKMXN,Czech koruna - Mexican peso,fx,global,True,MXN,Mexican peso,CZK,Czech koruna,2017-01-01T00:00:00Z
+272,C:CZKNOK,Czech koruna - Norwegian krone,fx,global,True,NOK,Norwegian krone,CZK,Czech koruna,2017-01-01T00:00:00Z
+273,C:CZKPLN,Czech koruna - Polish złoty,fx,global,True,PLN,Polish złoty,CZK,Czech koruna,2017-01-01T00:00:00Z
+274,C:CZKSEK,Czech koruna - Swedish krona,fx,global,True,SEK,Swedish krona,CZK,Czech koruna,2017-01-01T00:00:00Z
+275,C:CZKUSD,Czech koruna - United States Dollar,fx,global,True,USD,United States Dollar,CZK,Czech koruna,2017-01-01T00:00:00Z
+276,C:CZKZAR,Czech koruna - South African rand,fx,global,True,ZAR,South African rand,CZK,Czech koruna,2017-01-01T00:00:00Z
+277,C:DJFGBP,Djiboutian franc - Pound sterling,fx,global,True,GBP,Pound sterling,DJF,Djiboutian franc,2017-01-01T00:00:00Z
+278,C:DKKAED,Danish krone - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,DKK,Danish krone,2017-01-01T00:00:00Z
+279,C:DKKAUD,Danish krone - Australian dollar,fx,global,True,AUD,Australian dollar,DKK,Danish krone,2017-01-01T00:00:00Z
+280,C:DKKBGN,Danish krone - Bulgarian lev,fx,global,True,BGN,Bulgarian lev,DKK,Danish krone,2017-01-01T00:00:00Z
+281,C:DKKCAD,Danish krone - Canadian dollar,fx,global,True,CAD,Canadian dollar,DKK,Danish krone,2017-01-01T00:00:00Z
+282,C:DKKCHF,Danish krone - Swiss franc,fx,global,True,CHF,Swiss franc,DKK,Danish krone,2017-01-01T00:00:00Z
+283,C:DKKCNY,Danish krone - Chinese yuan,fx,global,True,CNY,Chinese yuan,DKK,Danish krone,2017-01-01T00:00:00Z
+284,C:DKKCOP,Danish krone - Colombian peso,fx,global,True,COP,Colombian peso,DKK,Danish krone,2017-01-01T00:00:00Z
+285,C:DKKCZK,Danish krone - Czech koruna,fx,global,True,CZK,Czech koruna,DKK,Danish krone,2017-01-01T00:00:00Z
+286,C:DKKEUR,Danish krone - Euro,fx,global,True,EUR,Euro,DKK,Danish krone,2017-01-01T00:00:00Z
+287,C:DKKGBP,Danish krone - Pound sterling,fx,global,True,GBP,Pound sterling,DKK,Danish krone,2017-01-01T00:00:00Z
+288,C:DKKHKD,Danish krone - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,DKK,Danish krone,2017-01-01T00:00:00Z
+289,C:DKKHUF,Danish krone - Hungarian forint,fx,global,True,HUF,Hungarian forint,DKK,Danish krone,2017-01-01T00:00:00Z
+290,C:DKKINR,Danish krone - Indian rupee,fx,global,True,INR,Indian rupee,DKK,Danish krone,2017-01-01T00:00:00Z
+291,C:DKKISK,Danish krone - Icelandic króna,fx,global,True,ISK,Icelandic króna,DKK,Danish krone,2017-01-01T00:00:00Z
+292,C:DKKJPY,Danish krone - Japanese yen,fx,global,True,JPY,Japanese yen,DKK,Danish krone,2017-01-01T00:00:00Z
+293,C:DKKMXN,Danish krone - Mexican peso,fx,global,True,MXN,Mexican peso,DKK,Danish krone,2017-01-01T00:00:00Z
+294,C:DKKMYR,Danish krone - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,DKK,Danish krone,2017-01-01T00:00:00Z
+295,C:DKKNOK,Danish krone - Norwegian krone,fx,global,True,NOK,Norwegian krone,DKK,Danish krone,2017-01-01T00:00:00Z
+296,C:DKKNZD,Danish krone - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,DKK,Danish krone,2017-01-01T00:00:00Z
+297,C:DKKPHP,Danish krone - Philippine peso,fx,global,True,PHP,Philippine peso,DKK,Danish krone,2017-01-01T00:00:00Z
+298,C:DKKPKR,Danish krone - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,DKK,Danish krone,2017-01-01T00:00:00Z
+299,C:DKKPLN,Danish krone - Polish złoty,fx,global,True,PLN,Polish złoty,DKK,Danish krone,2017-01-01T00:00:00Z
+300,C:DKKRUB,Danish krone - Russian rouble,fx,global,True,RUB,Russian rouble,DKK,Danish krone,2017-01-01T00:00:00Z
+301,C:DKKSEK,Danish krone - Swedish krona,fx,global,True,SEK,Swedish krona,DKK,Danish krone,2017-01-01T00:00:00Z
+302,C:DKKSGD,Danish krone - Singapore dollar,fx,global,True,SGD,Singapore dollar,DKK,Danish krone,2017-01-01T00:00:00Z
+303,C:DKKTHB,Danish krone - Thai baht,fx,global,True,THB,Thai baht,DKK,Danish krone,2017-01-01T00:00:00Z
+304,C:DKKTRY,Danish krone - Turkish lira,fx,global,True,TRY,Turkish lira,DKK,Danish krone,2017-01-01T00:00:00Z
+305,C:DKKTWD,Danish krone - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,DKK,Danish krone,2017-01-01T00:00:00Z
+306,C:DKKUAH,Danish krone - Ukrainian hryvnia,fx,global,True,UAH,Ukrainian hryvnia,DKK,Danish krone,2017-01-01T00:00:00Z
+307,C:DKKUSD,Danish krone - United States Dollar,fx,global,True,USD,United States Dollar,DKK,Danish krone,2017-01-01T00:00:00Z
+308,C:DKKZAR,Danish krone - South African rand,fx,global,True,ZAR,South African rand,DKK,Danish krone,2017-01-01T00:00:00Z
+309,C:DOECHF,Double Eagle - Swiss franc,fx,global,True,CHF,Swiss franc,DOE,Double Eagle,2017-01-01T00:00:00Z
+310,C:DOEUSD,Double Eagle - United States Dollar,fx,global,True,USD,United States Dollar,DOE,Double Eagle,2017-01-01T00:00:00Z
+311,C:DOPGBP,Dominican peso - Pound sterling,fx,global,True,GBP,Pound sterling,DOP,Dominican peso,2017-01-01T00:00:00Z
+312,C:DOPUSD,Dominican peso - United States Dollar,fx,global,True,USD,United States Dollar,DOP,Dominican peso,2017-01-01T00:00:00Z
+313,C:DZDEUR,Algerian dinar - Euro,fx,global,True,EUR,Euro,DZD,Algerian dinar,2017-01-01T00:00:00Z
+314,C:DZDUSD,Algerian dinar - United States Dollar,fx,global,True,USD,United States Dollar,DZD,Algerian dinar,2017-01-01T00:00:00Z
+315,C:EGPEUR,Egyptian pound - Euro,fx,global,True,EUR,Euro,EGP,Egyptian pound,2017-01-01T00:00:00Z
+316,C:EGPJPY,Egyptian pound - Japanese yen,fx,global,True,JPY,Japanese yen,EGP,Egyptian pound,2017-01-01T00:00:00Z
+317,C:EGPPKR,Egyptian pound - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,EGP,Egyptian pound,2017-01-01T00:00:00Z
+318,C:EGPUSD,Egyptian pound - United States Dollar,fx,global,True,USD,United States Dollar,EGP,Egyptian pound,2017-01-01T00:00:00Z
+319,C:EGPZAR,Egyptian pound - South African rand,fx,global,True,ZAR,South African rand,EGP,Egyptian pound,2017-01-01T00:00:00Z
+320,C:ETBGBP,Ethiopian birr - Pound sterling,fx,global,True,GBP,Pound sterling,ETB,Ethiopian birr,2017-01-01T00:00:00Z
+321,C:ETBUSD,Ethiopian birr - United States Dollar,fx,global,True,USD,United States Dollar,ETB,Ethiopian birr,2017-01-01T00:00:00Z
+322,C:EURAED,Euro - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,EUR,Euro,2017-01-01T00:00:00Z
+323,C:EURAFN,Euro - Afghan afghani,fx,global,True,AFN,Afghan afghani,EUR,Euro,2017-01-01T00:00:00Z
+324,C:EURALL,Euro - Albanian lek,fx,global,True,ALL,Albanian lek,EUR,Euro,2017-01-01T00:00:00Z
+325,C:EURAMD,Euro - Armenian dram,fx,global,True,AMD,Armenian dram,EUR,Euro,2017-01-01T00:00:00Z
+326,C:EURARS,Euro - Argentine peso,fx,global,True,ARS,Argentine peso,EUR,Euro,2017-01-01T00:00:00Z
+327,C:EURAUD,Euro - Australian dollar,fx,global,True,AUD,Australian dollar,EUR,Euro,2017-01-01T00:00:00Z
+328,C:EURBBD,Euro - Barbados dollar,fx,global,True,BBD,Barbados dollar,EUR,Euro,2017-01-01T00:00:00Z
+329,C:EURBDT,Euro - Bangladeshi taka,fx,global,True,BDT,Bangladeshi taka,EUR,Euro,2017-01-01T00:00:00Z
+330,C:EURBGN,Euro - Bulgarian lev,fx,global,True,BGN,Bulgarian lev,EUR,Euro,2017-01-01T00:00:00Z
+331,C:EURBHD,Euro - Bahraini dinar,fx,global,True,BHD,Bahraini dinar,EUR,Euro,2017-01-01T00:00:00Z
+332,C:EURBIF,Euro - Burundian franc,fx,global,True,BIF,Burundian franc,EUR,Euro,2017-01-01T00:00:00Z
+333,C:EURBMD,Euro - Bermudian dollar,fx,global,True,BMD,Bermudian dollar,EUR,Euro,2017-01-01T00:00:00Z
+334,C:EURBND,Euro - Brunei dollar,fx,global,True,BND,Brunei dollar,EUR,Euro,2017-01-01T00:00:00Z
+335,C:EURBOB,Euro - Boliviano,fx,global,True,BOB,Boliviano,EUR,Euro,2017-01-01T00:00:00Z
+336,C:EURBRL,Euro - Brazilian real,fx,global,True,BRL,Brazilian real,EUR,Euro,2017-01-01T00:00:00Z
+337,C:EURBSD,Euro - Bahamian dollar,fx,global,True,BSD,Bahamian dollar,EUR,Euro,2017-01-01T00:00:00Z
+338,C:EURBTN,Euro - Bhutanese ngultrum,fx,global,True,BTN,Bhutanese ngultrum,EUR,Euro,2017-01-01T00:00:00Z
+339,C:EURBWP,Euro - Botswana pula,fx,global,True,BWP,Botswana pula,EUR,Euro,2017-01-01T00:00:00Z
+340,C:EURBYR,Euro - Belarusian ruble,fx,global,True,BYR,Belarusian ruble,EUR,Euro,2017-01-01T00:00:00Z
+341,C:EURBZD,Euro - Belize dollar,fx,global,True,BZD,Belize dollar,EUR,Euro,2017-01-01T00:00:00Z
+342,C:EURCAD,Euro - Canadian dollar,fx,global,True,CAD,Canadian dollar,EUR,Euro,2017-01-01T00:00:00Z
+343,C:EURCDF,Euro - Congolese franc,fx,global,True,CDF,Congolese franc,EUR,Euro,2017-01-01T00:00:00Z
+344,C:EURCHF,Euro - Swiss franc,fx,global,True,CHF,Swiss franc,EUR,Euro,2017-01-01T00:00:00Z
+345,C:EURCLP,Euro - Chilean peso,fx,global,True,CLP,Chilean peso,EUR,Euro,2017-01-01T00:00:00Z
+346,C:EURCNH,Euro - Chinese yuan,fx,global,True,CNH,Chinese yuan,EUR,Euro,2017-01-01T00:00:00Z
+347,C:EURCNY,Euro - Chinese yuan,fx,global,True,CNY,Chinese yuan,EUR,Euro,2017-01-01T00:00:00Z
+348,C:EURCOP,Euro - Colombian peso,fx,global,True,COP,Colombian peso,EUR,Euro,2017-01-01T00:00:00Z
+349,C:EURCRC,Euro - Costa Rican colon,fx,global,True,CRC,Costa Rican colon,EUR,Euro,2017-01-01T00:00:00Z
+350,C:EURCUP,Euro - Cuban peso,fx,global,True,CUP,Cuban peso,EUR,Euro,2017-01-01T00:00:00Z
+351,C:EURCZK,Euro - Czech koruna,fx,global,True,CZK,Czech koruna,EUR,Euro,2017-01-01T00:00:00Z
+352,C:EURDJF,Euro - Djiboutian franc,fx,global,True,DJF,Djiboutian franc,EUR,Euro,2017-01-01T00:00:00Z
+353,C:EURDKK,Euro - Danish krone,fx,global,True,DKK,Danish krone,EUR,Euro,2017-01-01T00:00:00Z
+354,C:EURDOP,Euro - Dominican peso,fx,global,True,DOP,Dominican peso,EUR,Euro,2017-01-01T00:00:00Z
+355,C:EURDZD,Euro - Algerian dinar,fx,global,True,DZD,Algerian dinar,EUR,Euro,2017-01-01T00:00:00Z
+356,C:EUREGP,Euro - Egyptian pound,fx,global,True,EGP,Egyptian pound,EUR,Euro,2017-01-01T00:00:00Z
+357,C:EURETB,Euro - Ethiopian birr,fx,global,True,ETB,Ethiopian birr,EUR,Euro,2017-01-01T00:00:00Z
+358,C:EURFJD,Euro - Fiji dollar,fx,global,True,FJD,Fiji dollar,EUR,Euro,2017-01-01T00:00:00Z
+359,C:EURGBP,Euro - Pound sterling,fx,global,True,GBP,Pound sterling,EUR,Euro,2017-01-01T00:00:00Z
+360,C:EURGHS,Euro - Ghanaian cedi,fx,global,True,GHS,Ghanaian cedi,EUR,Euro,2017-01-01T00:00:00Z
+361,C:EURGNF,Euro - Guinean franc,fx,global,True,GNF,Guinean franc,EUR,Euro,2017-01-01T00:00:00Z
+362,C:EURGTQ,Euro - Guatemalan quetzal,fx,global,True,GTQ,Guatemalan quetzal,EUR,Euro,2017-01-01T00:00:00Z
+363,C:EURGYD,Euro - Guyanese dollar,fx,global,True,GYD,Guyanese dollar,EUR,Euro,2017-01-01T00:00:00Z
+364,C:EURHKD,Euro - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,EUR,Euro,2017-01-01T00:00:00Z
+365,C:EURHNL,Euro - Honduran lempira,fx,global,True,HNL,Honduran lempira,EUR,Euro,2017-01-01T00:00:00Z
+366,C:EURHRK,Euro - Croatian kuna,fx,global,True,HRK,Croatian kuna,EUR,Euro,2017-01-01T00:00:00Z
+367,C:EURHTG,Euro - Haitian gourde,fx,global,True,HTG,Haitian gourde,EUR,Euro,2017-01-01T00:00:00Z
+368,C:EURHUF,Euro - Hungarian forint,fx,global,True,HUF,Hungarian forint,EUR,Euro,2017-01-01T00:00:00Z
+369,C:EURIDR,Euro - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,EUR,Euro,2017-01-01T00:00:00Z
+370,C:EURILS,Euro - Israeli new shekel,fx,global,True,ILS,Israeli new shekel,EUR,Euro,2017-01-01T00:00:00Z
+371,C:EURINR,Euro - Indian rupee,fx,global,True,INR,Indian rupee,EUR,Euro,2017-01-01T00:00:00Z
+372,C:EURIQD,Euro - Iraqi dinar,fx,global,True,IQD,Iraqi dinar,EUR,Euro,2017-01-01T00:00:00Z
+373,C:EURISK,Euro - Icelandic króna,fx,global,True,ISK,Icelandic króna,EUR,Euro,2017-01-01T00:00:00Z
+374,C:EURJMD,Euro - Jamaican dollar,fx,global,True,JMD,Jamaican dollar,EUR,Euro,2017-01-01T00:00:00Z
+375,C:EURJOD,Euro - Jordanian dinar,fx,global,True,JOD,Jordanian dinar,EUR,Euro,2017-01-01T00:00:00Z
+376,C:EURJPY,Euro - Japanese yen,fx,global,True,JPY,Japanese yen,EUR,Euro,2017-01-01T00:00:00Z
+377,C:EURKES,Euro - Kenyan shilling,fx,global,True,KES,Kenyan shilling,EUR,Euro,2017-01-01T00:00:00Z
+378,C:EURKHR,Euro - Cambodian riel,fx,global,True,KHR,Cambodian riel,EUR,Euro,2017-01-01T00:00:00Z
+379,C:EURKRW,Euro - South Korean won,fx,global,True,KRW,South Korean won,EUR,Euro,2017-01-01T00:00:00Z
+380,C:EURKWD,Euro - Kuwaiti dinar,fx,global,True,KWD,Kuwaiti dinar,EUR,Euro,2017-01-01T00:00:00Z
+381,C:EURKYD,Euro - Cayman Islands dollar,fx,global,True,KYD,Cayman Islands dollar,EUR,Euro,2017-01-01T00:00:00Z
+382,C:EURKZT,Euro - Kazakhstani tenge,fx,global,True,KZT,Kazakhstani tenge,EUR,Euro,2017-01-01T00:00:00Z
+383,C:EURLAK,Euro - Lao kip,fx,global,True,LAK,Lao kip,EUR,Euro,2017-01-01T00:00:00Z
+384,C:EURLBP,Euro - Lebanese pound,fx,global,True,LBP,Lebanese pound,EUR,Euro,2017-01-01T00:00:00Z
+385,C:EURLKR,Euro - Sri Lankan rupee,fx,global,True,LKR,Sri Lankan rupee,EUR,Euro,2017-01-01T00:00:00Z
+386,C:EURLRD,Euro - Liberian dollar,fx,global,True,LRD,Liberian dollar,EUR,Euro,2017-01-01T00:00:00Z
+387,C:EURLSL,Euro - Lesotho loti,fx,global,True,LSL,Lesotho loti,EUR,Euro,2017-01-01T00:00:00Z
+388,C:EURLYD,Euro - Libyan dinar,fx,global,True,LYD,Libyan dinar,EUR,Euro,2017-01-01T00:00:00Z
+389,C:EURMAD,Euro - Moroccan dirham,fx,global,True,MAD,Moroccan dirham,EUR,Euro,2017-01-01T00:00:00Z
+390,C:EURMDL,Euro - Moldovan leu,fx,global,True,MDL,Moldovan leu,EUR,Euro,2017-01-01T00:00:00Z
+391,C:EURMGA,Euro - Malagasy ariary,fx,global,True,MGA,Malagasy ariary,EUR,Euro,2017-01-01T00:00:00Z
+392,C:EURMKD,Euro - Macedonian denar,fx,global,True,MKD,Macedonian denar,EUR,Euro,2017-01-01T00:00:00Z
+393,C:EURMMK,Euro - Myanma kyat,fx,global,True,MMK,Myanma kyat,EUR,Euro,2017-01-01T00:00:00Z
+394,C:EURMOP,Euro - Macanese pataca,fx,global,True,MOP,Macanese pataca,EUR,Euro,2017-01-01T00:00:00Z
+395,C:EURMRO,Euro - Mauritanian ouguiya,fx,global,True,MRO,Mauritanian ouguiya,EUR,Euro,2017-01-01T00:00:00Z
+396,C:EURMUR,Euro - Mauritian rupee,fx,global,True,MUR,Mauritian rupee,EUR,Euro,2017-01-01T00:00:00Z
+397,C:EURMVR,Euro - Maldivian rufiyaa,fx,global,True,MVR,Maldivian rufiyaa,EUR,Euro,2017-01-01T00:00:00Z
+398,C:EURMWK,Euro - Malawian kwacha,fx,global,True,MWK,Malawian kwacha,EUR,Euro,2017-01-01T00:00:00Z
+399,C:EURMXN,Euro - Mexican peso,fx,global,True,MXN,Mexican peso,EUR,Euro,2017-01-01T00:00:00Z
+400,C:EURMYR,Euro - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,EUR,Euro,2017-01-01T00:00:00Z
+401,C:EURMZN,Euro - Mozambican metical,fx,global,True,MZN,Mozambican metical,EUR,Euro,2017-01-01T00:00:00Z
+402,C:EURNAD,Euro - Namibian dollar,fx,global,True,NAD,Namibian dollar,EUR,Euro,2017-01-01T00:00:00Z
+403,C:EURNGN,Euro - Nigerian naira,fx,global,True,NGN,Nigerian naira,EUR,Euro,2017-01-01T00:00:00Z
+404,C:EURNIO,Euro - Nicaraguan córdoba,fx,global,True,NIO,Nicaraguan córdoba,EUR,Euro,2017-01-01T00:00:00Z
+405,C:EURNOK,Euro - Norwegian krone,fx,global,True,NOK,Norwegian krone,EUR,Euro,2017-01-01T00:00:00Z
+406,C:EURNPR,Euro - Nepalese rupee,fx,global,True,NPR,Nepalese rupee,EUR,Euro,2017-01-01T00:00:00Z
+407,C:EURNZD,Euro - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,EUR,Euro,2017-01-01T00:00:00Z
+408,C:EUROMR,Euro - Omani rial,fx,global,True,OMR,Omani rial,EUR,Euro,2017-01-01T00:00:00Z
+409,C:EURPAB,Euro - Panamanian balboa,fx,global,True,PAB,Panamanian balboa,EUR,Euro,2017-01-01T00:00:00Z
+410,C:EURPEN,Euro - Peruvian nuevo sol,fx,global,True,PEN,Peruvian nuevo sol,EUR,Euro,2017-01-01T00:00:00Z
+411,C:EURPGK,Euro - Papua New Guinean kina,fx,global,True,PGK,Papua New Guinean kina,EUR,Euro,2017-01-01T00:00:00Z
+412,C:EURPHP,Euro - Philippine peso,fx,global,True,PHP,Philippine peso,EUR,Euro,2017-01-01T00:00:00Z
+413,C:EURPKR,Euro - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,EUR,Euro,2017-01-01T00:00:00Z
+414,C:EURPLN,Euro - Polish złoty,fx,global,True,PLN,Polish złoty,EUR,Euro,2017-01-01T00:00:00Z
+415,C:EURPYG,Euro - Paraguayan guaraní,fx,global,True,PYG,Paraguayan guaraní,EUR,Euro,2017-01-01T00:00:00Z
+416,C:EURQAR,Euro - Qatari riyal,fx,global,True,QAR,Qatari riyal,EUR,Euro,2017-01-01T00:00:00Z
+417,C:EURRON,Euro - Romanian new leu,fx,global,True,RON,Romanian new leu,EUR,Euro,2017-01-01T00:00:00Z
+418,C:EURRSD,Euro - Serbian dinar,fx,global,True,RSD,Serbian dinar,EUR,Euro,2017-01-01T00:00:00Z
+419,C:EURRUB,Euro - Russian rouble,fx,global,True,RUB,Russian rouble,EUR,Euro,2017-01-01T00:00:00Z
+420,C:EURRWF,Euro - Rwandan franc,fx,global,True,RWF,Rwandan franc,EUR,Euro,2017-01-01T00:00:00Z
+421,C:EURSAR,Euro - Saudi riyal,fx,global,True,SAR,Saudi riyal,EUR,Euro,2017-01-01T00:00:00Z
+422,C:EURSCR,Euro - Seychelles rupee,fx,global,True,SCR,Seychelles rupee,EUR,Euro,2017-01-01T00:00:00Z
+423,C:EURSDD,Euro - Sudanese dinar,fx,global,True,SDD,Sudanese dinar,EUR,Euro,2017-01-01T00:00:00Z
+424,C:EURSDG,Euro - Sudanese pound,fx,global,True,SDG,Sudanese pound,EUR,Euro,2017-01-01T00:00:00Z
+425,C:EURSEK,Euro - Swedish krona,fx,global,True,SEK,Swedish krona,EUR,Euro,2017-01-01T00:00:00Z
+426,C:EURSGD,Euro - Singapore dollar,fx,global,True,SGD,Singapore dollar,EUR,Euro,2017-01-01T00:00:00Z
+427,C:EURSLL,Euro - Sierra Leonean leone,fx,global,True,SLL,Sierra Leonean leone,EUR,Euro,2017-01-01T00:00:00Z
+428,C:EURSOS,Euro - Somali shilling,fx,global,True,SOS,Somali shilling,EUR,Euro,2017-01-01T00:00:00Z
+429,C:EURSVC,Euro - Salvadoran colón,fx,global,True,SVC,Salvadoran colón,EUR,Euro,2017-01-01T00:00:00Z
+430,C:EURSZL,Euro - Swazi lilangeni,fx,global,True,SZL,Swazi lilangeni,EUR,Euro,2017-01-01T00:00:00Z
+431,C:EURTHB,Euro - Thai baht,fx,global,True,THB,Thai baht,EUR,Euro,2017-01-01T00:00:00Z
+432,C:EURTJS,Euro - Tajikistani somoni,fx,global,True,TJS,Tajikistani somoni,EUR,Euro,2017-01-01T00:00:00Z
+433,C:EURTND,Euro - Tunisian dinar,fx,global,True,TND,Tunisian dinar,EUR,Euro,2017-01-01T00:00:00Z
+434,C:EURTRY,Euro - Turkish lira,fx,global,True,TRY,Turkish lira,EUR,Euro,2017-01-01T00:00:00Z
+435,C:EURTTD,Euro - Trinidad and Tobago dollar,fx,global,True,TTD,Trinidad and Tobago dollar,EUR,Euro,2017-01-01T00:00:00Z
+436,C:EURTWD,Euro - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,EUR,Euro,2017-01-01T00:00:00Z
+437,C:EURTZS,Euro - Tanzanian shilling,fx,global,True,TZS,Tanzanian shilling,EUR,Euro,2017-01-01T00:00:00Z
+438,C:EURUAH,Euro - Ukrainian hryvnia,fx,global,True,UAH,Ukrainian hryvnia,EUR,Euro,2017-01-01T00:00:00Z
+439,C:EURUGX,Euro - Ugandan shilling,fx,global,True,UGX,Ugandan shilling,EUR,Euro,2017-01-01T00:00:00Z
+440,C:EURUSD,Euro - United States Dollar,fx,global,True,USD,United States Dollar,EUR,Euro,2017-01-01T00:00:00Z
+441,C:EURUYU,Euro - Uruguayan peso,fx,global,True,UYU,Uruguayan peso,EUR,Euro,2017-01-01T00:00:00Z
+442,C:EURUZS,Euro - Uzbekistan som,fx,global,True,UZS,Uzbekistan som,EUR,Euro,2017-01-01T00:00:00Z
+443,C:EURVEF,Euro - Venezuelan bolí,fx,global,True,VEF,Venezuelan bolí,EUR,Euro,2017-01-01T00:00:00Z
+444,C:EURVND,Euro - Vietnamese dong,fx,global,True,VND,Vietnamese dong,EUR,Euro,2017-01-01T00:00:00Z
+445,C:EURYER,Euro - Yemeni rial,fx,global,True,YER,Yemeni rial,EUR,Euro,2017-01-01T00:00:00Z
+446,C:EURZAR,Euro - South African rand,fx,global,True,ZAR,South African rand,EUR,Euro,2017-01-01T00:00:00Z
+447,C:EURZMW,Euro - Zambian kwacha,fx,global,True,ZMW,Zambian kwacha,EUR,Euro,2017-01-01T00:00:00Z
+448,C:FJDGBP,Fiji dollar - Pound sterling,fx,global,True,GBP,Pound sterling,FJD,Fiji dollar,2017-01-01T00:00:00Z
+449,C:FJDUSD,Fiji dollar - United States Dollar,fx,global,True,USD,United States Dollar,FJD,Fiji dollar,2017-01-01T00:00:00Z
+450,C:FRNCHF,French Napoleon - Swiss franc,fx,global,True,CHF,Swiss franc,FRN,French Napoleon,2017-01-01T00:00:00Z
+451,C:GBPAED,Pound sterling - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,GBP,Pound sterling,2017-01-01T00:00:00Z
+452,C:GBPAFN,Pound sterling - Afghan afghani,fx,global,True,AFN,Afghan afghani,GBP,Pound sterling,2017-01-01T00:00:00Z
+453,C:GBPALL,Pound sterling - Albanian lek,fx,global,True,ALL,Albanian lek,GBP,Pound sterling,2017-01-01T00:00:00Z
+454,C:GBPAMD,Pound sterling - Armenian dram,fx,global,True,AMD,Armenian dram,GBP,Pound sterling,2017-01-01T00:00:00Z
+455,C:GBPARS,Pound sterling - Argentine peso,fx,global,True,ARS,Argentine peso,GBP,Pound sterling,2017-01-01T00:00:00Z
+456,C:GBPAUD,Pound sterling - Australian dollar,fx,global,True,AUD,Australian dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+457,C:GBPAWG,Pound sterling - Aruban florin,fx,global,True,AWG,Aruban florin,GBP,Pound sterling,2017-01-01T00:00:00Z
+458,C:GBPBAM,Pound sterling - Bosnia and Herzegovina convertible mark,fx,global,True,BAM,Bosnia and Herzegovina convertible mark,GBP,Pound sterling,2017-01-01T00:00:00Z
+459,C:GBPBBD,Pound sterling - Barbados dollar,fx,global,True,BBD,Barbados dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+460,C:GBPBDT,Pound sterling - Bangladeshi taka,fx,global,True,BDT,Bangladeshi taka,GBP,Pound sterling,2017-01-01T00:00:00Z
+461,C:GBPBGN,Pound sterling - Bulgarian lev,fx,global,True,BGN,Bulgarian lev,GBP,Pound sterling,2017-01-01T00:00:00Z
+462,C:GBPBHD,Pound sterling - Bahraini dinar,fx,global,True,BHD,Bahraini dinar,GBP,Pound sterling,2017-01-01T00:00:00Z
+463,C:GBPBIF,Pound sterling - Burundian franc,fx,global,True,BIF,Burundian franc,GBP,Pound sterling,2017-01-01T00:00:00Z
+464,C:GBPBMD,Pound sterling - Bermudian dollar,fx,global,True,BMD,Bermudian dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+465,C:GBPBND,Pound sterling - Brunei dollar,fx,global,True,BND,Brunei dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+466,C:GBPBOB,Pound sterling - Boliviano,fx,global,True,BOB,Boliviano,GBP,Pound sterling,2017-01-01T00:00:00Z
+467,C:GBPBRL,Pound sterling - Brazilian real,fx,global,True,BRL,Brazilian real,GBP,Pound sterling,2017-01-01T00:00:00Z
+468,C:GBPBSD,Pound sterling - Bahamian dollar,fx,global,True,BSD,Bahamian dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+469,C:GBPBTN,Pound sterling - Bhutanese ngultrum,fx,global,True,BTN,Bhutanese ngultrum,GBP,Pound sterling,2017-01-01T00:00:00Z
+470,C:GBPBWP,Pound sterling - Botswana pula,fx,global,True,BWP,Botswana pula,GBP,Pound sterling,2017-01-01T00:00:00Z
+471,C:GBPBYR,Pound sterling - Belarusian ruble,fx,global,True,BYR,Belarusian ruble,GBP,Pound sterling,2017-01-01T00:00:00Z
+472,C:GBPBZD,Pound sterling - Belize dollar,fx,global,True,BZD,Belize dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+473,C:GBPCAD,Pound sterling - Canadian dollar,fx,global,True,CAD,Canadian dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+474,C:GBPCDF,Pound sterling - Congolese franc,fx,global,True,CDF,Congolese franc,GBP,Pound sterling,2017-01-01T00:00:00Z
+475,C:GBPCHF,Pound sterling - Swiss franc,fx,global,True,CHF,Swiss franc,GBP,Pound sterling,2017-01-01T00:00:00Z
+476,C:GBPCLP,Pound sterling - Chilean peso,fx,global,True,CLP,Chilean peso,GBP,Pound sterling,2017-01-01T00:00:00Z
+477,C:GBPCNH,Pound sterling - Chinese yuan,fx,global,True,CNH,Chinese yuan,GBP,Pound sterling,2017-01-01T00:00:00Z
+478,C:GBPCNY,Pound sterling - Chinese yuan,fx,global,True,CNY,Chinese yuan,GBP,Pound sterling,2017-01-01T00:00:00Z
+479,C:GBPCOP,Pound sterling - Colombian peso,fx,global,True,COP,Colombian peso,GBP,Pound sterling,2017-01-01T00:00:00Z
+480,C:GBPCRC,Pound sterling - Costa Rican colon,fx,global,True,CRC,Costa Rican colon,GBP,Pound sterling,2017-01-01T00:00:00Z
+481,C:GBPCUP,Pound sterling - Cuban peso,fx,global,True,CUP,Cuban peso,GBP,Pound sterling,2017-01-01T00:00:00Z
+482,C:GBPCZK,Pound sterling - Czech koruna,fx,global,True,CZK,Czech koruna,GBP,Pound sterling,2017-01-01T00:00:00Z
+483,C:GBPDJF,Pound sterling - Djiboutian franc,fx,global,True,DJF,Djiboutian franc,GBP,Pound sterling,2017-01-01T00:00:00Z
+484,C:GBPDKK,Pound sterling - Danish krone,fx,global,True,DKK,Danish krone,GBP,Pound sterling,2017-01-01T00:00:00Z
+485,C:GBPDOP,Pound sterling - Dominican peso,fx,global,True,DOP,Dominican peso,GBP,Pound sterling,2017-01-01T00:00:00Z
+486,C:GBPDZD,Pound sterling - Algerian dinar,fx,global,True,DZD,Algerian dinar,GBP,Pound sterling,2017-01-01T00:00:00Z
+487,C:GBPEGP,Pound sterling - Egyptian pound,fx,global,True,EGP,Egyptian pound,GBP,Pound sterling,2017-01-01T00:00:00Z
+488,C:GBPETB,Pound sterling - Ethiopian birr,fx,global,True,ETB,Ethiopian birr,GBP,Pound sterling,2017-01-01T00:00:00Z
+489,C:GBPEUR,Pound sterling - Euro,fx,global,True,EUR,Euro,GBP,Pound sterling,2017-01-01T00:00:00Z
+490,C:GBPFJD,Pound sterling - Fiji dollar,fx,global,True,FJD,Fiji dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+491,C:GBPGHS,Pound sterling - Ghanaian cedi,fx,global,True,GHS,Ghanaian cedi,GBP,Pound sterling,2017-01-01T00:00:00Z
+492,C:GBPGNF,Pound sterling - Guinean franc,fx,global,True,GNF,Guinean franc,GBP,Pound sterling,2017-01-01T00:00:00Z
+493,C:GBPGTQ,Pound sterling - Guatemalan quetzal,fx,global,True,GTQ,Guatemalan quetzal,GBP,Pound sterling,2017-01-01T00:00:00Z
+494,C:GBPGYD,Pound sterling - Guyanese dollar,fx,global,True,GYD,Guyanese dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+495,C:GBPHKD,Pound sterling - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+496,C:GBPHNL,Pound sterling - Honduran lempira,fx,global,True,HNL,Honduran lempira,GBP,Pound sterling,2017-01-01T00:00:00Z
+497,C:GBPHRK,Pound sterling - Croatian kuna,fx,global,True,HRK,Croatian kuna,GBP,Pound sterling,2017-01-01T00:00:00Z
+498,C:GBPHTG,Pound sterling - Haitian gourde,fx,global,True,HTG,Haitian gourde,GBP,Pound sterling,2017-01-01T00:00:00Z
+499,C:GBPHUF,Pound sterling - Hungarian forint,fx,global,True,HUF,Hungarian forint,GBP,Pound sterling,2017-01-01T00:00:00Z
+500,C:GBPIDR,Pound sterling - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,GBP,Pound sterling,2017-01-01T00:00:00Z
+501,C:GBPILS,Pound sterling - Israeli new shekel,fx,global,True,ILS,Israeli new shekel,GBP,Pound sterling,2017-01-01T00:00:00Z
+502,C:GBPINR,Pound sterling - Indian rupee,fx,global,True,INR,Indian rupee,GBP,Pound sterling,2017-01-01T00:00:00Z
+503,C:GBPIQD,Pound sterling - Iraqi dinar,fx,global,True,IQD,Iraqi dinar,GBP,Pound sterling,2017-01-01T00:00:00Z
+504,C:GBPISK,Pound sterling - Icelandic króna,fx,global,True,ISK,Icelandic króna,GBP,Pound sterling,2017-01-01T00:00:00Z
+505,C:GBPJMD,Pound sterling - Jamaican dollar,fx,global,True,JMD,Jamaican dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+506,C:GBPJOD,Pound sterling - Jordanian dinar,fx,global,True,JOD,Jordanian dinar,GBP,Pound sterling,2017-01-01T00:00:00Z
+507,C:GBPJPY,Pound sterling - Japanese yen,fx,global,True,JPY,Japanese yen,GBP,Pound sterling,2017-01-01T00:00:00Z
+508,C:GBPKES,Pound sterling - Kenyan shilling,fx,global,True,KES,Kenyan shilling,GBP,Pound sterling,2017-01-01T00:00:00Z
+509,C:GBPKHR,Pound sterling - Cambodian riel,fx,global,True,KHR,Cambodian riel,GBP,Pound sterling,2017-01-01T00:00:00Z
+510,C:GBPKMF,Pound sterling - Comoro franc,fx,global,True,KMF,Comoro franc,GBP,Pound sterling,2017-01-01T00:00:00Z
+511,C:GBPKRW,Pound sterling - South Korean won,fx,global,True,KRW,South Korean won,GBP,Pound sterling,2017-01-01T00:00:00Z
+512,C:GBPKWD,Pound sterling - Kuwaiti dinar,fx,global,True,KWD,Kuwaiti dinar,GBP,Pound sterling,2017-01-01T00:00:00Z
+513,C:GBPKYD,Pound sterling - Cayman Islands dollar,fx,global,True,KYD,Cayman Islands dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+514,C:GBPKZT,Pound sterling - Kazakhstani tenge,fx,global,True,KZT,Kazakhstani tenge,GBP,Pound sterling,2017-01-01T00:00:00Z
+515,C:GBPLAK,Pound sterling - Lao kip,fx,global,True,LAK,Lao kip,GBP,Pound sterling,2017-01-01T00:00:00Z
+516,C:GBPLBP,Pound sterling - Lebanese pound,fx,global,True,LBP,Lebanese pound,GBP,Pound sterling,2017-01-01T00:00:00Z
+517,C:GBPLKR,Pound sterling - Sri Lankan rupee,fx,global,True,LKR,Sri Lankan rupee,GBP,Pound sterling,2017-01-01T00:00:00Z
+518,C:GBPLRD,Pound sterling - Liberian dollar,fx,global,True,LRD,Liberian dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+519,C:GBPLSL,Pound sterling - Lesotho loti,fx,global,True,LSL,Lesotho loti,GBP,Pound sterling,2017-01-01T00:00:00Z
+520,C:GBPLYD,Pound sterling - Libyan dinar,fx,global,True,LYD,Libyan dinar,GBP,Pound sterling,2017-01-01T00:00:00Z
+521,C:GBPMAD,Pound sterling - Moroccan dirham,fx,global,True,MAD,Moroccan dirham,GBP,Pound sterling,2017-01-01T00:00:00Z
+522,C:GBPMDL,Pound sterling - Moldovan leu,fx,global,True,MDL,Moldovan leu,GBP,Pound sterling,2017-01-01T00:00:00Z
+523,C:GBPMGA,Pound sterling - Malagasy ariary,fx,global,True,MGA,Malagasy ariary,GBP,Pound sterling,2017-01-01T00:00:00Z
+524,C:GBPMKD,Pound sterling - Macedonian denar,fx,global,True,MKD,Macedonian denar,GBP,Pound sterling,2017-01-01T00:00:00Z
+525,C:GBPMMK,Pound sterling - Myanma kyat,fx,global,True,MMK,Myanma kyat,GBP,Pound sterling,2017-01-01T00:00:00Z
+526,C:GBPMOP,Pound sterling - Macanese pataca,fx,global,True,MOP,Macanese pataca,GBP,Pound sterling,2017-01-01T00:00:00Z
+527,C:GBPMRO,Pound sterling - Mauritanian ouguiya,fx,global,True,MRO,Mauritanian ouguiya,GBP,Pound sterling,2017-01-01T00:00:00Z
+528,C:GBPMUR,Pound sterling - Mauritian rupee,fx,global,True,MUR,Mauritian rupee,GBP,Pound sterling,2017-01-01T00:00:00Z
+529,C:GBPMVR,Pound sterling - Maldivian rufiyaa,fx,global,True,MVR,Maldivian rufiyaa,GBP,Pound sterling,2017-01-01T00:00:00Z
+530,C:GBPMWK,Pound sterling - Malawian kwacha,fx,global,True,MWK,Malawian kwacha,GBP,Pound sterling,2017-01-01T00:00:00Z
+531,C:GBPMXN,Pound sterling - Mexican peso,fx,global,True,MXN,Mexican peso,GBP,Pound sterling,2017-01-01T00:00:00Z
+532,C:GBPMYR,Pound sterling - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,GBP,Pound sterling,2017-01-01T00:00:00Z
+533,C:GBPMZN,Pound sterling - Mozambican metical,fx,global,True,MZN,Mozambican metical,GBP,Pound sterling,2017-01-01T00:00:00Z
+534,C:GBPNAD,Pound sterling - Namibian dollar,fx,global,True,NAD,Namibian dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+535,C:GBPNGN,Pound sterling - Nigerian naira,fx,global,True,NGN,Nigerian naira,GBP,Pound sterling,2017-01-01T00:00:00Z
+536,C:GBPNIO,Pound sterling - Nicaraguan córdoba,fx,global,True,NIO,Nicaraguan córdoba,GBP,Pound sterling,2017-01-01T00:00:00Z
+537,C:GBPNOK,Pound sterling - Norwegian krone,fx,global,True,NOK,Norwegian krone,GBP,Pound sterling,2017-01-01T00:00:00Z
+538,C:GBPNPR,Pound sterling - Nepalese rupee,fx,global,True,NPR,Nepalese rupee,GBP,Pound sterling,2017-01-01T00:00:00Z
+539,C:GBPNZD,Pound sterling - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+540,C:GBPOMR,Pound sterling - Omani rial,fx,global,True,OMR,Omani rial,GBP,Pound sterling,2017-01-01T00:00:00Z
+541,C:GBPPAB,Pound sterling - Panamanian balboa,fx,global,True,PAB,Panamanian balboa,GBP,Pound sterling,2017-01-01T00:00:00Z
+542,C:GBPPEN,Pound sterling - Peruvian nuevo sol,fx,global,True,PEN,Peruvian nuevo sol,GBP,Pound sterling,2017-01-01T00:00:00Z
+543,C:GBPPGK,Pound sterling - Papua New Guinean kina,fx,global,True,PGK,Papua New Guinean kina,GBP,Pound sterling,2017-01-01T00:00:00Z
+544,C:GBPPHP,Pound sterling - Philippine peso,fx,global,True,PHP,Philippine peso,GBP,Pound sterling,2017-01-01T00:00:00Z
+545,C:GBPPKR,Pound sterling - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,GBP,Pound sterling,2017-01-01T00:00:00Z
+546,C:GBPPLN,Pound sterling - Polish złoty,fx,global,True,PLN,Polish złoty,GBP,Pound sterling,2017-01-01T00:00:00Z
+547,C:GBPPYG,Pound sterling - Paraguayan guaraní,fx,global,True,PYG,Paraguayan guaraní,GBP,Pound sterling,2017-01-01T00:00:00Z
+548,C:GBPQAR,Pound sterling - Qatari riyal,fx,global,True,QAR,Qatari riyal,GBP,Pound sterling,2017-01-01T00:00:00Z
+549,C:GBPRON,Pound sterling - Romanian new leu,fx,global,True,RON,Romanian new leu,GBP,Pound sterling,2017-01-01T00:00:00Z
+550,C:GBPRSD,Pound sterling - Serbian dinar,fx,global,True,RSD,Serbian dinar,GBP,Pound sterling,2017-01-01T00:00:00Z
+551,C:GBPRUB,Pound sterling - Russian rouble,fx,global,True,RUB,Russian rouble,GBP,Pound sterling,2017-01-01T00:00:00Z
+552,C:GBPRWF,Pound sterling - Rwandan franc,fx,global,True,RWF,Rwandan franc,GBP,Pound sterling,2017-01-01T00:00:00Z
+553,C:GBPSAR,Pound sterling - Saudi riyal,fx,global,True,SAR,Saudi riyal,GBP,Pound sterling,2017-01-01T00:00:00Z
+554,C:GBPSCR,Pound sterling - Seychelles rupee,fx,global,True,SCR,Seychelles rupee,GBP,Pound sterling,2017-01-01T00:00:00Z
+555,C:GBPSDD,Pound sterling - Sudanese dinar,fx,global,True,SDD,Sudanese dinar,GBP,Pound sterling,2017-01-01T00:00:00Z
+556,C:GBPSDG,Pound sterling - Sudanese pound,fx,global,True,SDG,Sudanese pound,GBP,Pound sterling,2017-01-01T00:00:00Z
+557,C:GBPSEK,Pound sterling - Swedish krona,fx,global,True,SEK,Swedish krona,GBP,Pound sterling,2017-01-01T00:00:00Z
+558,C:GBPSGD,Pound sterling - Singapore dollar,fx,global,True,SGD,Singapore dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+559,C:GBPSHP,Pound sterling - Saint Helena pound,fx,global,True,SHP,Saint Helena pound,GBP,Pound sterling,2017-01-01T00:00:00Z
+560,C:GBPSLL,Pound sterling - Sierra Leonean leone,fx,global,True,SLL,Sierra Leonean leone,GBP,Pound sterling,2017-01-01T00:00:00Z
+561,C:GBPSOS,Pound sterling - Somali shilling,fx,global,True,SOS,Somali shilling,GBP,Pound sterling,2017-01-01T00:00:00Z
+562,C:GBPSVC,Pound sterling - Salvadoran colón,fx,global,True,SVC,Salvadoran colón,GBP,Pound sterling,2017-01-01T00:00:00Z
+563,C:GBPSZL,Pound sterling - Swazi lilangeni,fx,global,True,SZL,Swazi lilangeni,GBP,Pound sterling,2017-01-01T00:00:00Z
+564,C:GBPTHB,Pound sterling - Thai baht,fx,global,True,THB,Thai baht,GBP,Pound sterling,2017-01-01T00:00:00Z
+565,C:GBPTND,Pound sterling - Tunisian dinar,fx,global,True,TND,Tunisian dinar,GBP,Pound sterling,2017-01-01T00:00:00Z
+566,C:GBPTRY,Pound sterling - Turkish lira,fx,global,True,TRY,Turkish lira,GBP,Pound sterling,2017-01-01T00:00:00Z
+567,C:GBPTTD,Pound sterling - Trinidad and Tobago dollar,fx,global,True,TTD,Trinidad and Tobago dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+568,C:GBPTWD,Pound sterling - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+569,C:GBPTZS,Pound sterling - Tanzanian shilling,fx,global,True,TZS,Tanzanian shilling,GBP,Pound sterling,2017-01-01T00:00:00Z
+570,C:GBPUAH,Pound sterling - Ukrainian hryvnia,fx,global,True,UAH,Ukrainian hryvnia,GBP,Pound sterling,2017-01-01T00:00:00Z
+571,C:GBPUGX,Pound sterling - Ugandan shilling,fx,global,True,UGX,Ugandan shilling,GBP,Pound sterling,2017-01-01T00:00:00Z
+572,C:GBPUSD,Pound sterling - United States Dollar,fx,global,True,USD,United States Dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+573,C:GBPUYU,Pound sterling - Uruguayan peso,fx,global,True,UYU,Uruguayan peso,GBP,Pound sterling,2017-01-01T00:00:00Z
+574,C:GBPUZS,Pound sterling - Uzbekistan som,fx,global,True,UZS,Uzbekistan som,GBP,Pound sterling,2017-01-01T00:00:00Z
+575,C:GBPVEF,Pound sterling - Venezuelan bolí,fx,global,True,VEF,Venezuelan bolí,GBP,Pound sterling,2017-01-01T00:00:00Z
+576,C:GBPVND,Pound sterling - Vietnamese dong,fx,global,True,VND,Vietnamese dong,GBP,Pound sterling,2017-01-01T00:00:00Z
+577,C:GBPXCD,Pound sterling - East Caribbean dollar,fx,global,True,XCD,East Caribbean dollar,GBP,Pound sterling,2017-01-01T00:00:00Z
+578,C:GBPXPF,Pound sterling - CFP franc,fx,global,True,XPF,CFP franc,GBP,Pound sterling,2017-01-01T00:00:00Z
+579,C:GBPYER,Pound sterling - Yemeni rial,fx,global,True,YER,Yemeni rial,GBP,Pound sterling,2017-01-01T00:00:00Z
+580,C:GBPZAR,Pound sterling - South African rand,fx,global,True,ZAR,South African rand,GBP,Pound sterling,2017-01-01T00:00:00Z
+581,C:GBPZMW,Pound sterling - Zambian kwacha,fx,global,True,ZMW,Zambian kwacha,GBP,Pound sterling,2017-01-01T00:00:00Z
+582,C:GHSEUR,Ghanaian cedi - Euro,fx,global,True,EUR,Euro,GHS,Ghanaian cedi,2017-01-01T00:00:00Z
+583,C:GHSGBP,Ghanaian cedi - Pound sterling,fx,global,True,GBP,Pound sterling,GHS,Ghanaian cedi,2017-01-01T00:00:00Z
+584,C:GHSUSD,Ghanaian cedi - United States Dollar,fx,global,True,USD,United States Dollar,GHS,Ghanaian cedi,2017-01-01T00:00:00Z
+585,C:GHSZAR,Ghanaian cedi - South African rand,fx,global,True,ZAR,South African rand,GHS,Ghanaian cedi,2017-01-01T00:00:00Z
+586,C:GNFGBP,Guinean franc - Pound sterling,fx,global,True,GBP,Pound sterling,GNF,Guinean franc,2017-01-01T00:00:00Z
+587,C:GNFUSD,Guinean franc - United States Dollar,fx,global,True,USD,United States Dollar,GNF,Guinean franc,2017-01-01T00:00:00Z
+588,C:GTQGBP,Guatemalan quetzal - Pound sterling,fx,global,True,GBP,Pound sterling,GTQ,Guatemalan quetzal,2017-01-01T00:00:00Z
+589,C:GTQUSD,Guatemalan quetzal - United States Dollar,fx,global,True,USD,United States Dollar,GTQ,Guatemalan quetzal,2017-01-01T00:00:00Z
+590,C:GYDGBP,Guyanese dollar - Pound sterling,fx,global,True,GBP,Pound sterling,GYD,Guyanese dollar,2017-01-01T00:00:00Z
+591,C:GYDUSD,Guyanese dollar - United States Dollar,fx,global,True,USD,United States Dollar,GYD,Guyanese dollar,2017-01-01T00:00:00Z
+592,C:HKDARS,Hong Kong dollar - Argentine peso,fx,global,True,ARS,Argentine peso,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+593,C:HKDAUD,Hong Kong dollar - Australian dollar,fx,global,True,AUD,Australian dollar,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+594,C:HKDBRL,Hong Kong dollar - Brazilian real,fx,global,True,BRL,Brazilian real,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+595,C:HKDCAD,Hong Kong dollar - Canadian dollar,fx,global,True,CAD,Canadian dollar,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+596,C:HKDCHF,Hong Kong dollar - Swiss franc,fx,global,True,CHF,Swiss franc,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+597,C:HKDCNY,Hong Kong dollar - Chinese yuan,fx,global,True,CNY,Chinese yuan,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+598,C:HKDDKK,Hong Kong dollar - Danish krone,fx,global,True,DKK,Danish krone,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+599,C:HKDEUR,Hong Kong dollar - Euro,fx,global,True,EUR,Euro,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+600,C:HKDGBP,Hong Kong dollar - Pound sterling,fx,global,True,GBP,Pound sterling,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+601,C:HKDIDR,Hong Kong dollar - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+602,C:HKDINR,Hong Kong dollar - Indian rupee,fx,global,True,INR,Indian rupee,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+603,C:HKDJPY,Hong Kong dollar - Japanese yen,fx,global,True,JPY,Japanese yen,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+604,C:HKDKRW,Hong Kong dollar - South Korean won,fx,global,True,KRW,South Korean won,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+605,C:HKDMXN,Hong Kong dollar - Mexican peso,fx,global,True,MXN,Mexican peso,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+606,C:HKDMYR,Hong Kong dollar - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+607,C:HKDNZD,Hong Kong dollar - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+608,C:HKDPKR,Hong Kong dollar - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+609,C:HKDPLN,Hong Kong dollar - Polish złoty,fx,global,True,PLN,Polish złoty,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+610,C:HKDSEK,Hong Kong dollar - Swedish krona,fx,global,True,SEK,Swedish krona,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+611,C:HKDSGD,Hong Kong dollar - Singapore dollar,fx,global,True,SGD,Singapore dollar,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+612,C:HKDTHB,Hong Kong dollar - Thai baht,fx,global,True,THB,Thai baht,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+613,C:HKDTWD,Hong Kong dollar - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+614,C:HKDUSD,Hong Kong dollar - United States Dollar,fx,global,True,USD,United States Dollar,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+615,C:HKDZAR,Hong Kong dollar - South African rand,fx,global,True,ZAR,South African rand,HKD,Hong Kong dollar,2017-01-01T00:00:00Z
+616,C:HNLGBP,Honduran lempira - Pound sterling,fx,global,True,GBP,Pound sterling,HNL,Honduran lempira,2017-01-01T00:00:00Z
+617,C:HNLUSD,Honduran lempira - United States Dollar,fx,global,True,USD,United States Dollar,HNL,Honduran lempira,2017-01-01T00:00:00Z
+618,C:HRKAUD,Croatian kuna - Australian dollar,fx,global,True,AUD,Australian dollar,HRK,Croatian kuna,2017-01-01T00:00:00Z
+619,C:HRKCAD,Croatian kuna - Canadian dollar,fx,global,True,CAD,Canadian dollar,HRK,Croatian kuna,2017-01-01T00:00:00Z
+620,C:HRKEUR,Croatian kuna - Euro,fx,global,True,EUR,Euro,HRK,Croatian kuna,2017-01-01T00:00:00Z
+621,C:HRKPLN,Croatian kuna - Polish złoty,fx,global,True,PLN,Polish złoty,HRK,Croatian kuna,2017-01-01T00:00:00Z
+622,C:HRKUSD,Croatian kuna - United States Dollar,fx,global,True,USD,United States Dollar,HRK,Croatian kuna,2017-01-01T00:00:00Z
+623,C:HTGGBP,Haitian gourde - Pound sterling,fx,global,True,GBP,Pound sterling,HTG,Haitian gourde,2017-01-01T00:00:00Z
+624,C:HTGUSD,Haitian gourde - United States Dollar,fx,global,True,USD,United States Dollar,HTG,Haitian gourde,2017-01-01T00:00:00Z
+625,C:HUFARS,Hungarian forint - Argentine peso,fx,global,True,ARS,Argentine peso,HUF,Hungarian forint,2017-01-01T00:00:00Z
+626,C:HUFCAD,Hungarian forint - Canadian dollar,fx,global,True,CAD,Canadian dollar,HUF,Hungarian forint,2017-01-01T00:00:00Z
+627,C:HUFCHF,Hungarian forint - Swiss franc,fx,global,True,CHF,Swiss franc,HUF,Hungarian forint,2017-01-01T00:00:00Z
+628,C:HUFDKK,Hungarian forint - Danish krone,fx,global,True,DKK,Danish krone,HUF,Hungarian forint,2017-01-01T00:00:00Z
+629,C:HUFEUR,Hungarian forint - Euro,fx,global,True,EUR,Euro,HUF,Hungarian forint,2017-01-01T00:00:00Z
+630,C:HUFJPY,Hungarian forint - Japanese yen,fx,global,True,JPY,Japanese yen,HUF,Hungarian forint,2017-01-01T00:00:00Z
+631,C:HUFPLN,Hungarian forint - Polish złoty,fx,global,True,PLN,Polish złoty,HUF,Hungarian forint,2017-01-01T00:00:00Z
+632,C:HUFUSD,Hungarian forint - United States Dollar,fx,global,True,USD,United States Dollar,HUF,Hungarian forint,2017-01-01T00:00:00Z
+633,C:HUFZAR,Hungarian forint - South African rand,fx,global,True,ZAR,South African rand,HUF,Hungarian forint,2017-01-01T00:00:00Z
+634,C:IDRAUD,Indonesian rupiah - Australian dollar,fx,global,True,AUD,Australian dollar,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+635,C:IDRCAD,Indonesian rupiah - Canadian dollar,fx,global,True,CAD,Canadian dollar,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+636,C:IDRCHF,Indonesian rupiah - Swiss franc,fx,global,True,CHF,Swiss franc,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+637,C:IDRCNY,Indonesian rupiah - Chinese yuan,fx,global,True,CNY,Chinese yuan,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+638,C:IDREUR,Indonesian rupiah - Euro,fx,global,True,EUR,Euro,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+639,C:IDRGBP,Indonesian rupiah - Pound sterling,fx,global,True,GBP,Pound sterling,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+640,C:IDRHKD,Indonesian rupiah - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+641,C:IDRINR,Indonesian rupiah - Indian rupee,fx,global,True,INR,Indian rupee,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+642,C:IDRJPY,Indonesian rupiah - Japanese yen,fx,global,True,JPY,Japanese yen,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+643,C:IDRKRW,Indonesian rupiah - South Korean won,fx,global,True,KRW,South Korean won,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+644,C:IDRMYR,Indonesian rupiah - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+645,C:IDRNZD,Indonesian rupiah - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+646,C:IDRSGD,Indonesian rupiah - Singapore dollar,fx,global,True,SGD,Singapore dollar,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+647,C:IDRTHB,Indonesian rupiah - Thai baht,fx,global,True,THB,Thai baht,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+648,C:IDRTWD,Indonesian rupiah - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+649,C:IDRUSD,Indonesian rupiah - United States Dollar,fx,global,True,USD,United States Dollar,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+650,C:IDRZAR,Indonesian rupiah - South African rand,fx,global,True,ZAR,South African rand,IDR,Indonesian rupiah,2017-01-01T00:00:00Z
+651,C:ILSAED,Israeli new shekel - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,ILS,Israeli new shekel,2017-01-01T00:00:00Z
+652,C:ILSAUD,Israeli new shekel - Australian dollar,fx,global,True,AUD,Australian dollar,ILS,Israeli new shekel,2017-01-01T00:00:00Z
+653,C:ILSCAD,Israeli new shekel - Canadian dollar,fx,global,True,CAD,Canadian dollar,ILS,Israeli new shekel,2017-01-01T00:00:00Z
+654,C:ILSCHF,Israeli new shekel - Swiss franc,fx,global,True,CHF,Swiss franc,ILS,Israeli new shekel,2017-01-01T00:00:00Z
+655,C:ILSEUR,Israeli new shekel - Euro,fx,global,True,EUR,Euro,ILS,Israeli new shekel,2017-01-01T00:00:00Z
+656,C:ILSJOD,Israeli new shekel - Jordanian dinar,fx,global,True,JOD,Jordanian dinar,ILS,Israeli new shekel,2017-01-01T00:00:00Z
+657,C:ILSJPY,Israeli new shekel - Japanese yen,fx,global,True,JPY,Japanese yen,ILS,Israeli new shekel,2017-01-01T00:00:00Z
+658,C:ILSNOK,Israeli new shekel - Norwegian krone,fx,global,True,NOK,Norwegian krone,ILS,Israeli new shekel,2017-01-01T00:00:00Z
+659,C:ILSPLN,Israeli new shekel - Polish złoty,fx,global,True,PLN,Polish złoty,ILS,Israeli new shekel,2017-01-01T00:00:00Z
+660,C:ILSSEK,Israeli new shekel - Swedish krona,fx,global,True,SEK,Swedish krona,ILS,Israeli new shekel,2017-01-01T00:00:00Z
+661,C:ILSUSD,Israeli new shekel - United States Dollar,fx,global,True,USD,United States Dollar,ILS,Israeli new shekel,2017-01-01T00:00:00Z
+662,C:ILSZAR,Israeli new shekel - South African rand,fx,global,True,ZAR,South African rand,ILS,Israeli new shekel,2017-01-01T00:00:00Z
+663,C:INRAUD,Indian rupee - Australian dollar,fx,global,True,AUD,Australian dollar,INR,Indian rupee,2017-01-01T00:00:00Z
+664,C:INRCAD,Indian rupee - Canadian dollar,fx,global,True,CAD,Canadian dollar,INR,Indian rupee,2017-01-01T00:00:00Z
+665,C:INRCHF,Indian rupee - Swiss franc,fx,global,True,CHF,Swiss franc,INR,Indian rupee,2017-01-01T00:00:00Z
+666,C:INRCNY,Indian rupee - Chinese yuan,fx,global,True,CNY,Chinese yuan,INR,Indian rupee,2017-01-01T00:00:00Z
+667,C:INREUR,Indian rupee - Euro,fx,global,True,EUR,Euro,INR,Indian rupee,2017-01-01T00:00:00Z
+668,C:INRGBP,Indian rupee - Pound sterling,fx,global,True,GBP,Pound sterling,INR,Indian rupee,2017-01-01T00:00:00Z
+669,C:INRHKD,Indian rupee - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,INR,Indian rupee,2017-01-01T00:00:00Z
+670,C:INRJPY,Indian rupee - Japanese yen,fx,global,True,JPY,Japanese yen,INR,Indian rupee,2017-01-01T00:00:00Z
+671,C:INRKRW,Indian rupee - South Korean won,fx,global,True,KRW,South Korean won,INR,Indian rupee,2017-01-01T00:00:00Z
+672,C:INRMYR,Indian rupee - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,INR,Indian rupee,2017-01-01T00:00:00Z
+673,C:INRNZD,Indian rupee - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,INR,Indian rupee,2017-01-01T00:00:00Z
+674,C:INRPKR,Indian rupee - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,INR,Indian rupee,2017-01-01T00:00:00Z
+675,C:INRSEK,Indian rupee - Swedish krona,fx,global,True,SEK,Swedish krona,INR,Indian rupee,2017-01-01T00:00:00Z
+676,C:INRSGD,Indian rupee - Singapore dollar,fx,global,True,SGD,Singapore dollar,INR,Indian rupee,2017-01-01T00:00:00Z
+677,C:INRTHB,Indian rupee - Thai baht,fx,global,True,THB,Thai baht,INR,Indian rupee,2017-01-01T00:00:00Z
+678,C:INRTWD,Indian rupee - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,INR,Indian rupee,2017-01-01T00:00:00Z
+679,C:INRUSD,Indian rupee - United States Dollar,fx,global,True,USD,United States Dollar,INR,Indian rupee,2017-01-01T00:00:00Z
+680,C:INRZAR,Indian rupee - South African rand,fx,global,True,ZAR,South African rand,INR,Indian rupee,2017-01-01T00:00:00Z
+681,C:IQDGBP,Iraqi dinar - Pound sterling,fx,global,True,GBP,Pound sterling,IQD,Iraqi dinar,2017-01-01T00:00:00Z
+682,C:IQDUSD,Iraqi dinar - United States Dollar,fx,global,True,USD,United States Dollar,IQD,Iraqi dinar,2017-01-01T00:00:00Z
+683,C:ISKCHF,Icelandic króna - Swiss franc,fx,global,True,CHF,Swiss franc,ISK,Icelandic króna,2017-01-01T00:00:00Z
+684,C:ISKUSD,Icelandic króna - United States Dollar,fx,global,True,USD,United States Dollar,ISK,Icelandic króna,2017-01-01T00:00:00Z
+685,C:JMDGBP,Jamaican dollar - Pound sterling,fx,global,True,GBP,Pound sterling,JMD,Jamaican dollar,2017-01-01T00:00:00Z
+686,C:JMDUSD,Jamaican dollar - United States Dollar,fx,global,True,USD,United States Dollar,JMD,Jamaican dollar,2017-01-01T00:00:00Z
+687,C:JODAED,Jordanian dinar - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,JOD,Jordanian dinar,2017-01-01T00:00:00Z
+688,C:JODILS,Jordanian dinar - Israeli new shekel,fx,global,True,ILS,Israeli new shekel,JOD,Jordanian dinar,2017-01-01T00:00:00Z
+689,C:JODUSD,Jordanian dinar - United States Dollar,fx,global,True,USD,United States Dollar,JOD,Jordanian dinar,2017-01-01T00:00:00Z
+690,C:JPYAED,Japanese yen - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,JPY,Japanese yen,2017-01-01T00:00:00Z
+691,C:JPYARS,Japanese yen - Argentine peso,fx,global,True,ARS,Argentine peso,JPY,Japanese yen,2017-01-01T00:00:00Z
+692,C:JPYAUD,Japanese yen - Australian dollar,fx,global,True,AUD,Australian dollar,JPY,Japanese yen,2017-01-01T00:00:00Z
+693,C:JPYBRL,Japanese yen - Brazilian real,fx,global,True,BRL,Brazilian real,JPY,Japanese yen,2017-01-01T00:00:00Z
+694,C:JPYBWP,Japanese yen - Botswana pula,fx,global,True,BWP,Botswana pula,JPY,Japanese yen,2017-01-01T00:00:00Z
+695,C:JPYCAD,Japanese yen - Canadian dollar,fx,global,True,CAD,Canadian dollar,JPY,Japanese yen,2017-01-01T00:00:00Z
+696,C:JPYCHF,Japanese yen - Swiss franc,fx,global,True,CHF,Swiss franc,JPY,Japanese yen,2017-01-01T00:00:00Z
+697,C:JPYCLP,Japanese yen - Chilean peso,fx,global,True,CLP,Chilean peso,JPY,Japanese yen,2017-01-01T00:00:00Z
+698,C:JPYCNY,Japanese yen - Chinese yuan,fx,global,True,CNY,Chinese yuan,JPY,Japanese yen,2017-01-01T00:00:00Z
+699,C:JPYCZK,Japanese yen - Czech koruna,fx,global,True,CZK,Czech koruna,JPY,Japanese yen,2017-01-01T00:00:00Z
+700,C:JPYDKK,Japanese yen - Danish krone,fx,global,True,DKK,Danish krone,JPY,Japanese yen,2017-01-01T00:00:00Z
+701,C:JPYEUR,Japanese yen - Euro,fx,global,True,EUR,Euro,JPY,Japanese yen,2017-01-01T00:00:00Z
+702,C:JPYGBP,Japanese yen - Pound sterling,fx,global,True,GBP,Pound sterling,JPY,Japanese yen,2017-01-01T00:00:00Z
+703,C:JPYHKD,Japanese yen - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,JPY,Japanese yen,2017-01-01T00:00:00Z
+704,C:JPYIDR,Japanese yen - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,JPY,Japanese yen,2017-01-01T00:00:00Z
+705,C:JPYILS,Japanese yen - Israeli new shekel,fx,global,True,ILS,Israeli new shekel,JPY,Japanese yen,2017-01-01T00:00:00Z
+706,C:JPYINR,Japanese yen - Indian rupee,fx,global,True,INR,Indian rupee,JPY,Japanese yen,2017-01-01T00:00:00Z
+707,C:JPYISK,Japanese yen - Icelandic króna,fx,global,True,ISK,Icelandic króna,JPY,Japanese yen,2017-01-01T00:00:00Z
+708,C:JPYKRW,Japanese yen - South Korean won,fx,global,True,KRW,South Korean won,JPY,Japanese yen,2017-01-01T00:00:00Z
+709,C:JPYMXN,Japanese yen - Mexican peso,fx,global,True,MXN,Mexican peso,JPY,Japanese yen,2017-01-01T00:00:00Z
+710,C:JPYMYR,Japanese yen - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,JPY,Japanese yen,2017-01-01T00:00:00Z
+711,C:JPYNOK,Japanese yen - Norwegian krone,fx,global,True,NOK,Norwegian krone,JPY,Japanese yen,2017-01-01T00:00:00Z
+712,C:JPYNZD,Japanese yen - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,JPY,Japanese yen,2017-01-01T00:00:00Z
+713,C:JPYPKR,Japanese yen - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,JPY,Japanese yen,2017-01-01T00:00:00Z
+714,C:JPYPLN,Japanese yen - Polish złoty,fx,global,True,PLN,Polish złoty,JPY,Japanese yen,2017-01-01T00:00:00Z
+715,C:JPYRSD,Japanese yen - Serbian dinar,fx,global,True,RSD,Serbian dinar,JPY,Japanese yen,2017-01-01T00:00:00Z
+716,C:JPYRUB,Japanese yen - Russian rouble,fx,global,True,RUB,Russian rouble,JPY,Japanese yen,2017-01-01T00:00:00Z
+717,C:JPYSAR,Japanese yen - Saudi riyal,fx,global,True,SAR,Saudi riyal,JPY,Japanese yen,2017-01-01T00:00:00Z
+718,C:JPYSEK,Japanese yen - Swedish krona,fx,global,True,SEK,Swedish krona,JPY,Japanese yen,2017-01-01T00:00:00Z
+719,C:JPYTHB,Japanese yen - Thai baht,fx,global,True,THB,Thai baht,JPY,Japanese yen,2017-01-01T00:00:00Z
+720,C:JPYTWD,Japanese yen - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,JPY,Japanese yen,2017-01-01T00:00:00Z
+721,C:JPYUSD,Japanese yen - United States Dollar,fx,global,True,USD,United States Dollar,JPY,Japanese yen,2017-01-01T00:00:00Z
+722,C:JPYZAR,Japanese yen - South African rand,fx,global,True,ZAR,South African rand,JPY,Japanese yen,2017-01-01T00:00:00Z
+723,C:KESEUR,Kenyan shilling - Euro,fx,global,True,EUR,Euro,KES,Kenyan shilling,2017-01-01T00:00:00Z
+724,C:KESUSD,Kenyan shilling - United States Dollar,fx,global,True,USD,United States Dollar,KES,Kenyan shilling,2017-01-01T00:00:00Z
+725,C:KESZAR,Kenyan shilling - South African rand,fx,global,True,ZAR,South African rand,KES,Kenyan shilling,2017-01-01T00:00:00Z
+726,C:KHRGBP,Cambodian riel - Pound sterling,fx,global,True,GBP,Pound sterling,KHR,Cambodian riel,2017-01-01T00:00:00Z
+727,C:KMFGBP,Comoro franc - Pound sterling,fx,global,True,GBP,Pound sterling,KMF,Comoro franc,2017-01-01T00:00:00Z
+728,C:KMFUSD,Comoro franc - United States Dollar,fx,global,True,USD,United States Dollar,KMF,Comoro franc,2017-01-01T00:00:00Z
+729,C:KRUCHF,South African Krugerrand - Swiss franc,fx,global,True,CHF,Swiss franc,KRU,South African Krugerrand,2017-01-01T00:00:00Z
+730,C:KRUUSD,South African Krugerrand - United States Dollar,fx,global,True,USD,United States Dollar,KRU,South African Krugerrand,2017-01-01T00:00:00Z
+731,C:KRWAUD,South Korean won - Australian dollar,fx,global,True,AUD,Australian dollar,KRW,South Korean won,2017-01-01T00:00:00Z
+732,C:KRWBRL,South Korean won - Brazilian real,fx,global,True,BRL,Brazilian real,KRW,South Korean won,2017-01-01T00:00:00Z
+733,C:KRWCAD,South Korean won - Canadian dollar,fx,global,True,CAD,Canadian dollar,KRW,South Korean won,2017-01-01T00:00:00Z
+734,C:KRWCHF,South Korean won - Swiss franc,fx,global,True,CHF,Swiss franc,KRW,South Korean won,2017-01-01T00:00:00Z
+735,C:KRWCNY,South Korean won - Chinese yuan,fx,global,True,CNY,Chinese yuan,KRW,South Korean won,2017-01-01T00:00:00Z
+736,C:KRWEUR,South Korean won - Euro,fx,global,True,EUR,Euro,KRW,South Korean won,2017-01-01T00:00:00Z
+737,C:KRWGBP,South Korean won - Pound sterling,fx,global,True,GBP,Pound sterling,KRW,South Korean won,2017-01-01T00:00:00Z
+738,C:KRWHKD,South Korean won - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,KRW,South Korean won,2017-01-01T00:00:00Z
+739,C:KRWIDR,South Korean won - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,KRW,South Korean won,2017-01-01T00:00:00Z
+740,C:KRWINR,South Korean won - Indian rupee,fx,global,True,INR,Indian rupee,KRW,South Korean won,2017-01-01T00:00:00Z
+741,C:KRWJPY,South Korean won - Japanese yen,fx,global,True,JPY,Japanese yen,KRW,South Korean won,2017-01-01T00:00:00Z
+742,C:KRWMYR,South Korean won - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,KRW,South Korean won,2017-01-01T00:00:00Z
+743,C:KRWNZD,South Korean won - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,KRW,South Korean won,2017-01-01T00:00:00Z
+744,C:KRWRUB,South Korean won - Russian rouble,fx,global,True,RUB,Russian rouble,KRW,South Korean won,2017-01-01T00:00:00Z
+745,C:KRWSEK,South Korean won - Swedish krona,fx,global,True,SEK,Swedish krona,KRW,South Korean won,2017-01-01T00:00:00Z
+746,C:KRWSGD,South Korean won - Singapore dollar,fx,global,True,SGD,Singapore dollar,KRW,South Korean won,2017-01-01T00:00:00Z
+747,C:KRWTHB,South Korean won - Thai baht,fx,global,True,THB,Thai baht,KRW,South Korean won,2017-01-01T00:00:00Z
+748,C:KRWTWD,South Korean won - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,KRW,South Korean won,2017-01-01T00:00:00Z
+749,C:KRWUSD,South Korean won - United States Dollar,fx,global,True,USD,United States Dollar,KRW,South Korean won,2017-01-01T00:00:00Z
+750,C:KRWZAR,South Korean won - South African rand,fx,global,True,ZAR,South African rand,KRW,South Korean won,2017-01-01T00:00:00Z
+751,C:KWDAED,Kuwaiti dinar - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,KWD,Kuwaiti dinar,2017-01-01T00:00:00Z
+752,C:KWDEUR,Kuwaiti dinar - Euro,fx,global,True,EUR,Euro,KWD,Kuwaiti dinar,2017-01-01T00:00:00Z
+753,C:KWDGBP,Kuwaiti dinar - Pound sterling,fx,global,True,GBP,Pound sterling,KWD,Kuwaiti dinar,2017-01-01T00:00:00Z
+754,C:KWDPKR,Kuwaiti dinar - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,KWD,Kuwaiti dinar,2017-01-01T00:00:00Z
+755,C:KWDUSD,Kuwaiti dinar - United States Dollar,fx,global,True,USD,United States Dollar,KWD,Kuwaiti dinar,2017-01-01T00:00:00Z
+756,C:KYDBMD,Cayman Islands dollar - Bermudian dollar,fx,global,True,BMD,Bermudian dollar,KYD,Cayman Islands dollar,2017-01-01T00:00:00Z
+757,C:KYDCAD,Cayman Islands dollar - Canadian dollar,fx,global,True,CAD,Canadian dollar,KYD,Cayman Islands dollar,2017-01-01T00:00:00Z
+758,C:KYDEUR,Cayman Islands dollar - Euro,fx,global,True,EUR,Euro,KYD,Cayman Islands dollar,2017-01-01T00:00:00Z
+759,C:KYDGBP,Cayman Islands dollar - Pound sterling,fx,global,True,GBP,Pound sterling,KYD,Cayman Islands dollar,2017-01-01T00:00:00Z
+760,C:KYDUSD,Cayman Islands dollar - United States Dollar,fx,global,True,USD,United States Dollar,KYD,Cayman Islands dollar,2017-01-01T00:00:00Z
+761,C:KZTGBP,Kazakhstani tenge - Pound sterling,fx,global,True,GBP,Pound sterling,KZT,Kazakhstani tenge,2017-01-01T00:00:00Z
+762,C:KZTUSD,Kazakhstani tenge - United States Dollar,fx,global,True,USD,United States Dollar,KZT,Kazakhstani tenge,2017-01-01T00:00:00Z
+763,C:LBPUSD,Lebanese pound - United States Dollar,fx,global,True,USD,United States Dollar,LBP,Lebanese pound,2017-01-01T00:00:00Z
+764,C:LKRGBP,Sri Lankan rupee - Pound sterling,fx,global,True,GBP,Pound sterling,LKR,Sri Lankan rupee,2017-01-01T00:00:00Z
+765,C:LKRUSD,Sri Lankan rupee - United States Dollar,fx,global,True,USD,United States Dollar,LKR,Sri Lankan rupee,2017-01-01T00:00:00Z
+766,C:LKRZAR,Sri Lankan rupee - South African rand,fx,global,True,ZAR,South African rand,LKR,Sri Lankan rupee,2017-01-01T00:00:00Z
+767,C:LRDGBP,Liberian dollar - Pound sterling,fx,global,True,GBP,Pound sterling,LRD,Liberian dollar,2017-01-01T00:00:00Z
+768,C:LRDUSD,Liberian dollar - United States Dollar,fx,global,True,USD,United States Dollar,LRD,Liberian dollar,2017-01-01T00:00:00Z
+769,C:LSLGBP,Lesotho loti - Pound sterling,fx,global,True,GBP,Pound sterling,LSL,Lesotho loti,2017-01-01T00:00:00Z
+770,C:LSLUSD,Lesotho loti - United States Dollar,fx,global,True,USD,United States Dollar,LSL,Lesotho loti,2017-01-01T00:00:00Z
+771,C:LTLAUD,Lithuanian litas - Australian dollar,fx,global,True,AUD,Australian dollar,LTL,Lithuanian litas,2017-01-01T00:00:00Z
+772,C:LTLPLN,Lithuanian litas - Polish złoty,fx,global,True,PLN,Polish złoty,LTL,Lithuanian litas,2017-01-01T00:00:00Z
+773,C:LYDGBP,Libyan dinar - Pound sterling,fx,global,True,GBP,Pound sterling,LYD,Libyan dinar,2017-01-01T00:00:00Z
+774,C:LYDUSD,Libyan dinar - United States Dollar,fx,global,True,USD,United States Dollar,LYD,Libyan dinar,2017-01-01T00:00:00Z
+775,C:M5PCHF,Mexican 50 peso - Swiss franc,fx,global,True,CHF,Swiss franc,M5P,Mexican 50 peso,2017-01-01T00:00:00Z
+776,C:M5PUSD,Mexican 50 peso - United States Dollar,fx,global,True,USD,United States Dollar,M5P,Mexican 50 peso,2017-01-01T00:00:00Z
+777,C:MADAUD,Moroccan dirham - Australian dollar,fx,global,True,AUD,Australian dollar,MAD,Moroccan dirham,2017-01-01T00:00:00Z
+778,C:MADGBP,Moroccan dirham - Pound sterling,fx,global,True,GBP,Pound sterling,MAD,Moroccan dirham,2017-01-01T00:00:00Z
+779,C:MADUSD,Moroccan dirham - United States Dollar,fx,global,True,USD,United States Dollar,MAD,Moroccan dirham,2017-01-01T00:00:00Z
+780,C:MADZAR,Moroccan dirham - South African rand,fx,global,True,ZAR,South African rand,MAD,Moroccan dirham,2017-01-01T00:00:00Z
+781,C:MALCHF,Maple Leaf - Swiss franc,fx,global,True,CHF,Swiss franc,MAL,Maple Leaf,2017-01-01T00:00:00Z
+782,C:MALUSD,Maple Leaf - United States Dollar,fx,global,True,USD,United States Dollar,MAL,Maple Leaf,2017-01-01T00:00:00Z
+783,C:MDLEUR,Moldovan leu - Euro,fx,global,True,EUR,Euro,MDL,Moldovan leu,2017-01-01T00:00:00Z
+784,C:MDLGBP,Moldovan leu - Pound sterling,fx,global,True,GBP,Pound sterling,MDL,Moldovan leu,2017-01-01T00:00:00Z
+785,C:MDLUSD,Moldovan leu - United States Dollar,fx,global,True,USD,United States Dollar,MDL,Moldovan leu,2017-01-01T00:00:00Z
+786,C:MGAGBP,Malagasy ariary - Pound sterling,fx,global,True,GBP,Pound sterling,MGA,Malagasy ariary,2017-01-01T00:00:00Z
+787,C:MGAUSD,Malagasy ariary - United States Dollar,fx,global,True,USD,United States Dollar,MGA,Malagasy ariary,2017-01-01T00:00:00Z
+788,C:MKDGBP,Macedonian denar - Pound sterling,fx,global,True,GBP,Pound sterling,MKD,Macedonian denar,2017-01-01T00:00:00Z
+789,C:MKDUSD,Macedonian denar - United States Dollar,fx,global,True,USD,United States Dollar,MKD,Macedonian denar,2017-01-01T00:00:00Z
+790,C:MMKGBP,Myanma kyat - Pound sterling,fx,global,True,GBP,Pound sterling,MMK,Myanma kyat,2017-01-01T00:00:00Z
+791,C:MMKUSD,Myanma kyat - United States Dollar,fx,global,True,USD,United States Dollar,MMK,Myanma kyat,2017-01-01T00:00:00Z
+792,C:MOPUSD,Macanese pataca - United States Dollar,fx,global,True,USD,United States Dollar,MOP,Macanese pataca,2017-01-01T00:00:00Z
+793,C:MROUSD,Mauritanian ouguiya - United States Dollar,fx,global,True,USD,United States Dollar,MRO,Mauritanian ouguiya,2017-01-01T00:00:00Z
+794,C:MUREUR,Mauritian rupee - Euro,fx,global,True,EUR,Euro,MUR,Mauritian rupee,2017-01-01T00:00:00Z
+795,C:MURGBP,Mauritian rupee - Pound sterling,fx,global,True,GBP,Pound sterling,MUR,Mauritian rupee,2017-01-01T00:00:00Z
+796,C:MURUSD,Mauritian rupee - United States Dollar,fx,global,True,USD,United States Dollar,MUR,Mauritian rupee,2017-01-01T00:00:00Z
+797,C:MVRUSD,Maldivian rufiyaa - United States Dollar,fx,global,True,USD,United States Dollar,MVR,Maldivian rufiyaa,2017-01-01T00:00:00Z
+798,C:MWKGBP,Malawian kwacha - Pound sterling,fx,global,True,GBP,Pound sterling,MWK,Malawian kwacha,2017-01-01T00:00:00Z
+799,C:MWKUSD,Malawian kwacha - United States Dollar,fx,global,True,USD,United States Dollar,MWK,Malawian kwacha,2017-01-01T00:00:00Z
+800,C:MWKZAR,Malawian kwacha - South African rand,fx,global,True,ZAR,South African rand,MWK,Malawian kwacha,2017-01-01T00:00:00Z
+801,C:MXNARS,Mexican peso - Argentine peso,fx,global,True,ARS,Argentine peso,MXN,Mexican peso,2017-01-01T00:00:00Z
+802,C:MXNAUD,Mexican peso - Australian dollar,fx,global,True,AUD,Australian dollar,MXN,Mexican peso,2017-01-01T00:00:00Z
+803,C:MXNBRL,Mexican peso - Brazilian real,fx,global,True,BRL,Brazilian real,MXN,Mexican peso,2017-01-01T00:00:00Z
+804,C:MXNCAD,Mexican peso - Canadian dollar,fx,global,True,CAD,Canadian dollar,MXN,Mexican peso,2017-01-01T00:00:00Z
+805,C:MXNCHF,Mexican peso - Swiss franc,fx,global,True,CHF,Swiss franc,MXN,Mexican peso,2017-01-01T00:00:00Z
+806,C:MXNCLP,Mexican peso - Chilean peso,fx,global,True,CLP,Chilean peso,MXN,Mexican peso,2017-01-01T00:00:00Z
+807,C:MXNCOP,Mexican peso - Colombian peso,fx,global,True,COP,Colombian peso,MXN,Mexican peso,2017-01-01T00:00:00Z
+808,C:MXNCZK,Mexican peso - Czech koruna,fx,global,True,CZK,Czech koruna,MXN,Mexican peso,2017-01-01T00:00:00Z
+809,C:MXNDKK,Mexican peso - Danish krone,fx,global,True,DKK,Danish krone,MXN,Mexican peso,2017-01-01T00:00:00Z
+810,C:MXNEUR,Mexican peso - Euro,fx,global,True,EUR,Euro,MXN,Mexican peso,2017-01-01T00:00:00Z
+811,C:MXNGBP,Mexican peso - Pound sterling,fx,global,True,GBP,Pound sterling,MXN,Mexican peso,2017-01-01T00:00:00Z
+812,C:MXNHKD,Mexican peso - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,MXN,Mexican peso,2017-01-01T00:00:00Z
+813,C:MXNJPY,Mexican peso - Japanese yen,fx,global,True,JPY,Japanese yen,MXN,Mexican peso,2017-01-01T00:00:00Z
+814,C:MXNPEN,Mexican peso - Peruvian nuevo sol,fx,global,True,PEN,Peruvian nuevo sol,MXN,Mexican peso,2017-01-01T00:00:00Z
+815,C:MXNPLN,Mexican peso - Polish złoty,fx,global,True,PLN,Polish złoty,MXN,Mexican peso,2017-01-01T00:00:00Z
+816,C:MXNRUB,Mexican peso - Russian rouble,fx,global,True,RUB,Russian rouble,MXN,Mexican peso,2017-01-01T00:00:00Z
+817,C:MXNSGD,Mexican peso - Singapore dollar,fx,global,True,SGD,Singapore dollar,MXN,Mexican peso,2017-01-01T00:00:00Z
+818,C:MXNUSD,Mexican peso - United States Dollar,fx,global,True,USD,United States Dollar,MXN,Mexican peso,2017-01-01T00:00:00Z
+819,C:MXNZAR,Mexican peso - South African rand,fx,global,True,ZAR,South African rand,MXN,Mexican peso,2017-01-01T00:00:00Z
+820,C:MYRAUD,Malaysian ringgit - Australian dollar,fx,global,True,AUD,Australian dollar,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+821,C:MYRCAD,Malaysian ringgit - Canadian dollar,fx,global,True,CAD,Canadian dollar,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+822,C:MYRCHF,Malaysian ringgit - Swiss franc,fx,global,True,CHF,Swiss franc,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+823,C:MYRCNY,Malaysian ringgit - Chinese yuan,fx,global,True,CNY,Chinese yuan,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+824,C:MYRDKK,Malaysian ringgit - Danish krone,fx,global,True,DKK,Danish krone,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+825,C:MYREUR,Malaysian ringgit - Euro,fx,global,True,EUR,Euro,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+826,C:MYRGBP,Malaysian ringgit - Pound sterling,fx,global,True,GBP,Pound sterling,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+827,C:MYRHKD,Malaysian ringgit - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+828,C:MYRIDR,Malaysian ringgit - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+829,C:MYRINR,Malaysian ringgit - Indian rupee,fx,global,True,INR,Indian rupee,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+830,C:MYRJPY,Malaysian ringgit - Japanese yen,fx,global,True,JPY,Japanese yen,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+831,C:MYRKRW,Malaysian ringgit - South Korean won,fx,global,True,KRW,South Korean won,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+832,C:MYRNZD,Malaysian ringgit - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+833,C:MYRPKR,Malaysian ringgit - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+834,C:MYRSGD,Malaysian ringgit - Singapore dollar,fx,global,True,SGD,Singapore dollar,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+835,C:MYRTHB,Malaysian ringgit - Thai baht,fx,global,True,THB,Thai baht,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+836,C:MYRTWD,Malaysian ringgit - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+837,C:MYRUSD,Malaysian ringgit - United States Dollar,fx,global,True,USD,United States Dollar,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+838,C:MYRZAR,Malaysian ringgit - South African rand,fx,global,True,ZAR,South African rand,MYR,Malaysian ringgit,2017-01-01T00:00:00Z
+839,C:MZNGBP,Mozambican metical - Pound sterling,fx,global,True,GBP,Pound sterling,MZN,Mozambican metical,2017-01-01T00:00:00Z
+840,C:MZNUSD,Mozambican metical - United States Dollar,fx,global,True,USD,United States Dollar,MZN,Mozambican metical,2017-01-01T00:00:00Z
+841,C:NADUSD,Namibian dollar - United States Dollar,fx,global,True,USD,United States Dollar,NAD,Namibian dollar,2017-01-01T00:00:00Z
+842,C:NADZAR,Namibian dollar - South African rand,fx,global,True,ZAR,South African rand,NAD,Namibian dollar,2017-01-01T00:00:00Z
+843,C:NBLCHF,Isle Of Man noble - Swiss franc,fx,global,True,CHF,Swiss franc,NBL,Isle Of Man noble,2017-01-01T00:00:00Z
+844,C:NBLUSD,Isle Of Man noble - United States Dollar,fx,global,True,USD,United States Dollar,NBL,Isle Of Man noble,2017-01-01T00:00:00Z
+845,C:NGNGBP,Nigerian naira - Pound sterling,fx,global,True,GBP,Pound sterling,NGN,Nigerian naira,2017-01-01T00:00:00Z
+846,C:NGNJPY,Nigerian naira - Japanese yen,fx,global,True,JPY,Japanese yen,NGN,Nigerian naira,2017-01-01T00:00:00Z
+847,C:NGNUSD,Nigerian naira - United States Dollar,fx,global,True,USD,United States Dollar,NGN,Nigerian naira,2017-01-01T00:00:00Z
+848,C:NGNZAR,Nigerian naira - South African rand,fx,global,True,ZAR,South African rand,NGN,Nigerian naira,2017-01-01T00:00:00Z
+849,C:NIOGBP,Nicaraguan córdoba - Pound sterling,fx,global,True,GBP,Pound sterling,NIO,Nicaraguan córdoba,2017-01-01T00:00:00Z
+850,C:NIOUSD,Nicaraguan córdoba - United States Dollar,fx,global,True,USD,United States Dollar,NIO,Nicaraguan córdoba,2017-01-01T00:00:00Z
+851,C:NOKAED,Norwegian krone - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,NOK,Norwegian krone,2017-01-01T00:00:00Z
+852,C:NOKCHF,Norwegian krone - Swiss franc,fx,global,True,CHF,Swiss franc,NOK,Norwegian krone,2017-01-01T00:00:00Z
+853,C:NOKDKK,Norwegian krone - Danish krone,fx,global,True,DKK,Danish krone,NOK,Norwegian krone,2017-01-01T00:00:00Z
+854,C:NOKEUR,Norwegian krone - Euro,fx,global,True,EUR,Euro,NOK,Norwegian krone,2017-01-01T00:00:00Z
+855,C:NOKGBP,Norwegian krone - Pound sterling,fx,global,True,GBP,Pound sterling,NOK,Norwegian krone,2017-01-01T00:00:00Z
+856,C:NOKILS,Norwegian krone - Israeli new shekel,fx,global,True,ILS,Israeli new shekel,NOK,Norwegian krone,2017-01-01T00:00:00Z
+857,C:NOKINR,Norwegian krone - Indian rupee,fx,global,True,INR,Indian rupee,NOK,Norwegian krone,2017-01-01T00:00:00Z
+858,C:NOKISK,Norwegian krone - Icelandic króna,fx,global,True,ISK,Icelandic króna,NOK,Norwegian krone,2017-01-01T00:00:00Z
+859,C:NOKJPY,Norwegian krone - Japanese yen,fx,global,True,JPY,Japanese yen,NOK,Norwegian krone,2017-01-01T00:00:00Z
+860,C:NOKPLN,Norwegian krone - Polish złoty,fx,global,True,PLN,Polish złoty,NOK,Norwegian krone,2017-01-01T00:00:00Z
+861,C:NOKRUB,Norwegian krone - Russian rouble,fx,global,True,RUB,Russian rouble,NOK,Norwegian krone,2017-01-01T00:00:00Z
+862,C:NOKSEK,Norwegian krone - Swedish krona,fx,global,True,SEK,Swedish krona,NOK,Norwegian krone,2017-01-01T00:00:00Z
+863,C:NOKUSD,Norwegian krone - United States Dollar,fx,global,True,USD,United States Dollar,NOK,Norwegian krone,2017-01-01T00:00:00Z
+864,C:NOKZAR,Norwegian krone - South African rand,fx,global,True,ZAR,South African rand,NOK,Norwegian krone,2017-01-01T00:00:00Z
+865,C:NPRGBP,Nepalese rupee - Pound sterling,fx,global,True,GBP,Pound sterling,NPR,Nepalese rupee,2017-01-01T00:00:00Z
+866,C:NPRUSD,Nepalese rupee - United States Dollar,fx,global,True,USD,United States Dollar,NPR,Nepalese rupee,2017-01-01T00:00:00Z
+867,C:NSOCHF,New Sovereign - Swiss franc,fx,global,True,CHF,Swiss franc,NSO,New Sovereign,2017-01-01T00:00:00Z
+868,C:NSOUSD,New Sovereign - United States Dollar,fx,global,True,USD,United States Dollar,NSO,New Sovereign,2017-01-01T00:00:00Z
+869,C:NZDAED,New Zealand dollar - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+870,C:NZDAUD,New Zealand dollar - Australian dollar,fx,global,True,AUD,Australian dollar,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+871,C:NZDCAD,New Zealand dollar - Canadian dollar,fx,global,True,CAD,Canadian dollar,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+872,C:NZDCHF,New Zealand dollar - Swiss franc,fx,global,True,CHF,Swiss franc,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+873,C:NZDCNY,New Zealand dollar - Chinese yuan,fx,global,True,CNY,Chinese yuan,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+874,C:NZDCZK,New Zealand dollar - Czech koruna,fx,global,True,CZK,Czech koruna,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+875,C:NZDDKK,New Zealand dollar - Danish krone,fx,global,True,DKK,Danish krone,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+876,C:NZDEUR,New Zealand dollar - Euro,fx,global,True,EUR,Euro,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+877,C:NZDGBP,New Zealand dollar - Pound sterling,fx,global,True,GBP,Pound sterling,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+878,C:NZDHKD,New Zealand dollar - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+879,C:NZDHUF,New Zealand dollar - Hungarian forint,fx,global,True,HUF,Hungarian forint,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+880,C:NZDIDR,New Zealand dollar - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+881,C:NZDINR,New Zealand dollar - Indian rupee,fx,global,True,INR,Indian rupee,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+882,C:NZDJPY,New Zealand dollar - Japanese yen,fx,global,True,JPY,Japanese yen,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+883,C:NZDKRW,New Zealand dollar - South Korean won,fx,global,True,KRW,South Korean won,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+884,C:NZDMXN,New Zealand dollar - Mexican peso,fx,global,True,MXN,Mexican peso,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+885,C:NZDMYR,New Zealand dollar - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+886,C:NZDNOK,New Zealand dollar - Norwegian krone,fx,global,True,NOK,Norwegian krone,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+887,C:NZDPHP,New Zealand dollar - Philippine peso,fx,global,True,PHP,Philippine peso,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+888,C:NZDPKR,New Zealand dollar - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+889,C:NZDPLN,New Zealand dollar - Polish złoty,fx,global,True,PLN,Polish złoty,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+890,C:NZDSEK,New Zealand dollar - Swedish krona,fx,global,True,SEK,Swedish krona,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+891,C:NZDSGD,New Zealand dollar - Singapore dollar,fx,global,True,SGD,Singapore dollar,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+892,C:NZDTHB,New Zealand dollar - Thai baht,fx,global,True,THB,Thai baht,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+893,C:NZDTRY,New Zealand dollar - Turkish lira,fx,global,True,TRY,Turkish lira,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+894,C:NZDTWD,New Zealand dollar - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+895,C:NZDUSD,New Zealand dollar - United States Dollar,fx,global,True,USD,United States Dollar,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+896,C:NZDZAR,New Zealand dollar - South African rand,fx,global,True,ZAR,South African rand,NZD,New Zealand dollar,2017-01-01T00:00:00Z
+897,C:OMRAED,Omani rial - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,OMR,Omani rial,2017-01-01T00:00:00Z
+898,C:OMRGBP,Omani rial - Pound sterling,fx,global,True,GBP,Pound sterling,OMR,Omani rial,2017-01-01T00:00:00Z
+899,C:OMRPKR,Omani rial - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,OMR,Omani rial,2017-01-01T00:00:00Z
+900,C:OMRUSD,Omani rial - United States Dollar,fx,global,True,USD,United States Dollar,OMR,Omani rial,2017-01-01T00:00:00Z
+901,C:OMRZAR,Omani rial - South African rand,fx,global,True,ZAR,South African rand,OMR,Omani rial,2017-01-01T00:00:00Z
+902,C:OSOCHF,Old Sovereign - Swiss franc,fx,global,True,CHF,Swiss franc,OSO,Old Sovereign,2017-01-01T00:00:00Z
+903,C:OSOUSD,Old Sovereign - United States Dollar,fx,global,True,USD,United States Dollar,OSO,Old Sovereign,2017-01-01T00:00:00Z
+904,C:PABUSD,Panamanian balboa - United States Dollar,fx,global,True,USD,United States Dollar,PAB,Panamanian balboa,2017-01-01T00:00:00Z
+905,C:PENARS,Peruvian nuevo sol - Argentine peso,fx,global,True,ARS,Argentine peso,PEN,Peruvian nuevo sol,2017-01-01T00:00:00Z
+906,C:PENBRL,Peruvian nuevo sol - Brazilian real,fx,global,True,BRL,Brazilian real,PEN,Peruvian nuevo sol,2017-01-01T00:00:00Z
+907,C:PENCAD,Peruvian nuevo sol - Canadian dollar,fx,global,True,CAD,Canadian dollar,PEN,Peruvian nuevo sol,2017-01-01T00:00:00Z
+908,C:PENCLP,Peruvian nuevo sol - Chilean peso,fx,global,True,CLP,Chilean peso,PEN,Peruvian nuevo sol,2017-01-01T00:00:00Z
+909,C:PENCOP,Peruvian nuevo sol - Colombian peso,fx,global,True,COP,Colombian peso,PEN,Peruvian nuevo sol,2017-01-01T00:00:00Z
+910,C:PENEUR,Peruvian nuevo sol - Euro,fx,global,True,EUR,Euro,PEN,Peruvian nuevo sol,2017-01-01T00:00:00Z
+911,C:PENGBP,Peruvian nuevo sol - Pound sterling,fx,global,True,GBP,Pound sterling,PEN,Peruvian nuevo sol,2017-01-01T00:00:00Z
+912,C:PENMXN,Peruvian nuevo sol - Mexican peso,fx,global,True,MXN,Mexican peso,PEN,Peruvian nuevo sol,2017-01-01T00:00:00Z
+913,C:PENUSD,Peruvian nuevo sol - United States Dollar,fx,global,True,USD,United States Dollar,PEN,Peruvian nuevo sol,2017-01-01T00:00:00Z
+914,C:PGKAUD,Papua New Guinean kina - Australian dollar,fx,global,True,AUD,Australian dollar,PGK,Papua New Guinean kina,2017-01-01T00:00:00Z
+915,C:PGKGBP,Papua New Guinean kina - Pound sterling,fx,global,True,GBP,Pound sterling,PGK,Papua New Guinean kina,2017-01-01T00:00:00Z
+916,C:PGKUSD,Papua New Guinean kina - United States Dollar,fx,global,True,USD,United States Dollar,PGK,Papua New Guinean kina,2017-01-01T00:00:00Z
+917,C:PHPAUD,Philippine peso - Australian dollar,fx,global,True,AUD,Australian dollar,PHP,Philippine peso,2017-01-01T00:00:00Z
+918,C:PHPDKK,Philippine peso - Danish krone,fx,global,True,DKK,Danish krone,PHP,Philippine peso,2017-01-01T00:00:00Z
+919,C:PHPGBP,Philippine peso - Pound sterling,fx,global,True,GBP,Pound sterling,PHP,Philippine peso,2017-01-01T00:00:00Z
+920,C:PHPJPY,Philippine peso - Japanese yen,fx,global,True,JPY,Japanese yen,PHP,Philippine peso,2017-01-01T00:00:00Z
+921,C:PHPNZD,Philippine peso - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,PHP,Philippine peso,2017-01-01T00:00:00Z
+922,C:PHPUSD,Philippine peso - United States Dollar,fx,global,True,USD,United States Dollar,PHP,Philippine peso,2017-01-01T00:00:00Z
+923,C:PKREUR,Pakistani rupee - Euro,fx,global,True,EUR,Euro,PKR,Pakistani rupee,2017-01-01T00:00:00Z
+924,C:PKRGBP,Pakistani rupee - Pound sterling,fx,global,True,GBP,Pound sterling,PKR,Pakistani rupee,2017-01-01T00:00:00Z
+925,C:PKRJPY,Pakistani rupee - Japanese yen,fx,global,True,JPY,Japanese yen,PKR,Pakistani rupee,2017-01-01T00:00:00Z
+926,C:PKRUSD,Pakistani rupee - United States Dollar,fx,global,True,USD,United States Dollar,PKR,Pakistani rupee,2017-01-01T00:00:00Z
+927,C:PKRZAR,Pakistani rupee - South African rand,fx,global,True,ZAR,South African rand,PKR,Pakistani rupee,2017-01-01T00:00:00Z
+928,C:PLNCHF,Polish złoty - Swiss franc,fx,global,True,CHF,Swiss franc,PLN,Polish złoty,2017-01-01T00:00:00Z
+929,C:PLNCOP,Polish złoty - Colombian peso,fx,global,True,COP,Colombian peso,PLN,Polish złoty,2017-01-01T00:00:00Z
+930,C:PLNCZK,Polish złoty - Czech koruna,fx,global,True,CZK,Czech koruna,PLN,Polish złoty,2017-01-01T00:00:00Z
+931,C:PLNDKK,Polish złoty - Danish krone,fx,global,True,DKK,Danish krone,PLN,Polish złoty,2017-01-01T00:00:00Z
+932,C:PLNEUR,Polish złoty - Euro,fx,global,True,EUR,Euro,PLN,Polish złoty,2017-01-01T00:00:00Z
+933,C:PLNGBP,Polish złoty - Pound sterling,fx,global,True,GBP,Pound sterling,PLN,Polish złoty,2017-01-01T00:00:00Z
+934,C:PLNHUF,Polish złoty - Hungarian forint,fx,global,True,HUF,Hungarian forint,PLN,Polish złoty,2017-01-01T00:00:00Z
+935,C:PLNILS,Polish złoty - Israeli new shekel,fx,global,True,ILS,Israeli new shekel,PLN,Polish złoty,2017-01-01T00:00:00Z
+936,C:PLNJPY,Polish złoty - Japanese yen,fx,global,True,JPY,Japanese yen,PLN,Polish złoty,2017-01-01T00:00:00Z
+937,C:PLNMXN,Polish złoty - Mexican peso,fx,global,True,MXN,Mexican peso,PLN,Polish złoty,2017-01-01T00:00:00Z
+938,C:PLNNOK,Polish złoty - Norwegian krone,fx,global,True,NOK,Norwegian krone,PLN,Polish złoty,2017-01-01T00:00:00Z
+939,C:PLNRUB,Polish złoty - Russian rouble,fx,global,True,RUB,Russian rouble,PLN,Polish złoty,2017-01-01T00:00:00Z
+940,C:PLNSEK,Polish złoty - Swedish krona,fx,global,True,SEK,Swedish krona,PLN,Polish złoty,2017-01-01T00:00:00Z
+941,C:PLNUSD,Polish złoty - United States Dollar,fx,global,True,USD,United States Dollar,PLN,Polish złoty,2017-01-01T00:00:00Z
+942,C:PYGUSD, - United States Dollar,fx,global,True,USD,United States Dollar,PYG,,2017-01-01T00:00:00Z
+943,C:PYGZAR, - ,fx,global,True,ZAR,,PYG,,2017-01-01T00:00:00Z
+944,C:QARAED,Qatari riyal - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,QAR,Qatari riyal,2017-01-01T00:00:00Z
+945,C:QARGBP,Qatari riyal - Pound sterling,fx,global,True,GBP,Pound sterling,QAR,Qatari riyal,2017-01-01T00:00:00Z
+946,C:QARPKR,Qatari riyal - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,QAR,Qatari riyal,2017-01-01T00:00:00Z
+947,C:QARUSD,Qatari riyal - United States Dollar,fx,global,True,USD,United States Dollar,QAR,Qatari riyal,2017-01-01T00:00:00Z
+948,C:QARZAR,Qatari riyal - South African rand,fx,global,True,ZAR,South African rand,QAR,Qatari riyal,2017-01-01T00:00:00Z
+949,C:RONCHF,Romanian new leu - Swiss franc,fx,global,True,CHF,Swiss franc,RON,Romanian new leu,2017-01-01T00:00:00Z
+950,C:RONGBP,Romanian new leu - Pound sterling,fx,global,True,GBP,Pound sterling,RON,Romanian new leu,2017-01-01T00:00:00Z
+951,C:RONPLN,Romanian new leu - Polish złoty,fx,global,True,PLN,Polish złoty,RON,Romanian new leu,2017-01-01T00:00:00Z
+952,C:RONUSD,Romanian new leu - United States Dollar,fx,global,True,USD,United States Dollar,RON,Romanian new leu,2017-01-01T00:00:00Z
+953,C:RONZAR,Romanian new leu - South African rand,fx,global,True,ZAR,South African rand,RON,Romanian new leu,2017-01-01T00:00:00Z
+954,C:RSDGBP,Serbian dinar - Pound sterling,fx,global,True,GBP,Pound sterling,RSD,Serbian dinar,2017-01-01T00:00:00Z
+955,C:RSDUSD,Serbian dinar - United States Dollar,fx,global,True,USD,United States Dollar,RSD,Serbian dinar,2017-01-01T00:00:00Z
+956,C:RUBAUD,Russian rouble - Australian dollar,fx,global,True,AUD,Australian dollar,RUB,Russian rouble,2017-01-01T00:00:00Z
+957,C:RUBCAD,Russian rouble - Canadian dollar,fx,global,True,CAD,Canadian dollar,RUB,Russian rouble,2017-01-01T00:00:00Z
+958,C:RUBCHF,Russian rouble - Swiss franc,fx,global,True,CHF,Swiss franc,RUB,Russian rouble,2017-01-01T00:00:00Z
+959,C:RUBDKK,Russian rouble - Danish krone,fx,global,True,DKK,Danish krone,RUB,Russian rouble,2017-01-01T00:00:00Z
+960,C:RUBEUR,Russian rouble - Euro,fx,global,True,EUR,Euro,RUB,Russian rouble,2017-01-01T00:00:00Z
+961,C:RUBGBP,Russian rouble - Pound sterling,fx,global,True,GBP,Pound sterling,RUB,Russian rouble,2017-01-01T00:00:00Z
+962,C:RUBJPY,Russian rouble - Japanese yen,fx,global,True,JPY,Japanese yen,RUB,Russian rouble,2017-01-01T00:00:00Z
+963,C:RUBKRW,Russian rouble - South Korean won,fx,global,True,KRW,South Korean won,RUB,Russian rouble,2017-01-01T00:00:00Z
+964,C:RUBMXN,Russian rouble - Mexican peso,fx,global,True,MXN,Mexican peso,RUB,Russian rouble,2017-01-01T00:00:00Z
+965,C:RUBNOK,Russian rouble - Norwegian krone,fx,global,True,NOK,Norwegian krone,RUB,Russian rouble,2017-01-01T00:00:00Z
+966,C:RUBPLN,Russian rouble - Polish złoty,fx,global,True,PLN,Polish złoty,RUB,Russian rouble,2017-01-01T00:00:00Z
+967,C:RUBSEK,Russian rouble - Swedish krona,fx,global,True,SEK,Swedish krona,RUB,Russian rouble,2017-01-01T00:00:00Z
+968,C:RUBUSD,Russian rouble - United States Dollar,fx,global,True,USD,United States Dollar,RUB,Russian rouble,2017-01-01T00:00:00Z
+969,C:RUBZAR,Russian rouble - South African rand,fx,global,True,ZAR,South African rand,RUB,Russian rouble,2017-01-01T00:00:00Z
+970,C:RWFGBP,Rwandan franc - Pound sterling,fx,global,True,GBP,Pound sterling,RWF,Rwandan franc,2017-01-01T00:00:00Z
+971,C:RWFUSD,Rwandan franc - United States Dollar,fx,global,True,USD,United States Dollar,RWF,Rwandan franc,2017-01-01T00:00:00Z
+972,C:RWFZAR,Rwandan franc - South African rand,fx,global,True,ZAR,South African rand,RWF,Rwandan franc,2017-01-01T00:00:00Z
+973,C:SAREUR,Saudi riyal - Euro,fx,global,True,EUR,Euro,SAR,Saudi riyal,2017-01-01T00:00:00Z
+974,C:SARJPY,Saudi riyal - Japanese yen,fx,global,True,JPY,Japanese yen,SAR,Saudi riyal,2017-01-01T00:00:00Z
+975,C:SARKWD,Saudi riyal - Kuwaiti dinar,fx,global,True,KWD,Kuwaiti dinar,SAR,Saudi riyal,2017-01-01T00:00:00Z
+976,C:SARPKR,Saudi riyal - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,SAR,Saudi riyal,2017-01-01T00:00:00Z
+977,C:SARUSD,Saudi riyal - United States Dollar,fx,global,True,USD,United States Dollar,SAR,Saudi riyal,2017-01-01T00:00:00Z
+978,C:SCRGBP,Seychelles rupee - Pound sterling,fx,global,True,GBP,Pound sterling,SCR,Seychelles rupee,2017-01-01T00:00:00Z
+979,C:SCRUSD,Seychelles rupee - United States Dollar,fx,global,True,USD,United States Dollar,SCR,Seychelles rupee,2017-01-01T00:00:00Z
+980,C:SDDGBP,Sudanese dinar - Pound sterling,fx,global,True,GBP,Pound sterling,SDD,Sudanese dinar,2017-01-01T00:00:00Z
+981,C:SDDUSD,Sudanese dinar - United States Dollar,fx,global,True,USD,United States Dollar,SDD,Sudanese dinar,2017-01-01T00:00:00Z
+982,C:SDGGBP,Sudanese pound - Pound sterling,fx,global,True,GBP,Pound sterling,SDG,Sudanese pound,2017-01-01T00:00:00Z
+983,C:SDGUSD,Sudanese pound - United States Dollar,fx,global,True,USD,United States Dollar,SDG,Sudanese pound,2017-01-01T00:00:00Z
+984,C:SEKAUD,Swedish krona - Australian dollar,fx,global,True,AUD,Australian dollar,SEK,Swedish krona,2017-01-01T00:00:00Z
+985,C:SEKCAD,Swedish krona - Canadian dollar,fx,global,True,CAD,Canadian dollar,SEK,Swedish krona,2017-01-01T00:00:00Z
+986,C:SEKCHF,Swedish krona - Swiss franc,fx,global,True,CHF,Swiss franc,SEK,Swedish krona,2017-01-01T00:00:00Z
+987,C:SEKCZK,Swedish krona - Czech koruna,fx,global,True,CZK,Czech koruna,SEK,Swedish krona,2017-01-01T00:00:00Z
+988,C:SEKDKK,Swedish krona - Danish krone,fx,global,True,DKK,Danish krone,SEK,Swedish krona,2017-01-01T00:00:00Z
+989,C:SEKEUR,Swedish krona - Euro,fx,global,True,EUR,Euro,SEK,Swedish krona,2017-01-01T00:00:00Z
+990,C:SEKGBP,Swedish krona - Pound sterling,fx,global,True,GBP,Pound sterling,SEK,Swedish krona,2017-01-01T00:00:00Z
+991,C:SEKILS,Swedish krona - Israeli new shekel,fx,global,True,ILS,Israeli new shekel,SEK,Swedish krona,2017-01-01T00:00:00Z
+992,C:SEKINR,Swedish krona - Indian rupee,fx,global,True,INR,Indian rupee,SEK,Swedish krona,2017-01-01T00:00:00Z
+993,C:SEKISK,Swedish krona - Icelandic króna,fx,global,True,ISK,Icelandic króna,SEK,Swedish krona,2017-01-01T00:00:00Z
+994,C:SEKJPY,Swedish krona - Japanese yen,fx,global,True,JPY,Japanese yen,SEK,Swedish krona,2017-01-01T00:00:00Z
+995,C:SEKNOK,Swedish krona - Norwegian krone,fx,global,True,NOK,Norwegian krone,SEK,Swedish krona,2017-01-01T00:00:00Z
+996,C:SEKPLN,Swedish krona - Polish złoty,fx,global,True,PLN,Polish złoty,SEK,Swedish krona,2017-01-01T00:00:00Z
+997,C:SEKRUB,Swedish krona - Russian rouble,fx,global,True,RUB,Russian rouble,SEK,Swedish krona,2017-01-01T00:00:00Z
+998,C:SEKUSD,Swedish krona - United States Dollar,fx,global,True,USD,United States Dollar,SEK,Swedish krona,2017-01-01T00:00:00Z
+999,C:SEKZAR,Swedish krona - South African rand,fx,global,True,ZAR,South African rand,SEK,Swedish krona,2017-01-01T00:00:00Z
+1000,C:SGDAED,Singapore dollar - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1001,C:SGDARS,Singapore dollar - Argentine peso,fx,global,True,ARS,Argentine peso,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1002,C:SGDAUD,Singapore dollar - Australian dollar,fx,global,True,AUD,Australian dollar,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1003,C:SGDBRL,Singapore dollar - Brazilian real,fx,global,True,BRL,Brazilian real,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1004,C:SGDCAD,Singapore dollar - Canadian dollar,fx,global,True,CAD,Canadian dollar,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1005,C:SGDCHF,Singapore dollar - Swiss franc,fx,global,True,CHF,Swiss franc,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1006,C:SGDCNY,Singapore dollar - Chinese yuan,fx,global,True,CNY,Chinese yuan,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1007,C:SGDDKK,Singapore dollar - Danish krone,fx,global,True,DKK,Danish krone,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1008,C:SGDEUR,Singapore dollar - Euro,fx,global,True,EUR,Euro,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1009,C:SGDGBP,Singapore dollar - Pound sterling,fx,global,True,GBP,Pound sterling,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1010,C:SGDHKD,Singapore dollar - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1011,C:SGDIDR,Singapore dollar - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1012,C:SGDINR,Singapore dollar - Indian rupee,fx,global,True,INR,Indian rupee,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1013,C:SGDJPY,Singapore dollar - Japanese yen,fx,global,True,JPY,Japanese yen,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1014,C:SGDKRW,Singapore dollar - South Korean won,fx,global,True,KRW,South Korean won,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1015,C:SGDMXN,Singapore dollar - Mexican peso,fx,global,True,MXN,Mexican peso,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1016,C:SGDMYR,Singapore dollar - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1017,C:SGDNOK,Singapore dollar - Norwegian krone,fx,global,True,NOK,Norwegian krone,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1018,C:SGDNZD,Singapore dollar - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1019,C:SGDPKR,Singapore dollar - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1020,C:SGDPLN,Singapore dollar - Polish złoty,fx,global,True,PLN,Polish złoty,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1021,C:SGDSEK,Singapore dollar - Swedish krona,fx,global,True,SEK,Swedish krona,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1022,C:SGDTHB,Singapore dollar - Thai baht,fx,global,True,THB,Thai baht,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1023,C:SGDTRY,Singapore dollar - Turkish lira,fx,global,True,TRY,Turkish lira,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1024,C:SGDTWD,Singapore dollar - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1025,C:SGDUSD,Singapore dollar - United States Dollar,fx,global,True,USD,United States Dollar,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1026,C:SGDZAR,Singapore dollar - South African rand,fx,global,True,ZAR,South African rand,SGD,Singapore dollar,2017-01-01T00:00:00Z
+1027,C:SHPGBP,Saint Helena pound - Pound sterling,fx,global,True,GBP,Pound sterling,SHP,Saint Helena pound,2017-01-01T00:00:00Z
+1028,C:SHPUSD,Saint Helena pound - United States Dollar,fx,global,True,USD,United States Dollar,SHP,Saint Helena pound,2017-01-01T00:00:00Z
+1029,C:SLLGBP,Sierra Leonean leone - Pound sterling,fx,global,True,GBP,Pound sterling,SLL,Sierra Leonean leone,2017-01-01T00:00:00Z
+1030,C:SLLUSD,Sierra Leonean leone - United States Dollar,fx,global,True,USD,United States Dollar,SLL,Sierra Leonean leone,2017-01-01T00:00:00Z
+1031,C:SOSGBP,Somali shilling - Pound sterling,fx,global,True,GBP,Pound sterling,SOS,Somali shilling,2017-01-01T00:00:00Z
+1032,C:SOSUSD,Somali shilling - United States Dollar,fx,global,True,USD,United States Dollar,SOS,Somali shilling,2017-01-01T00:00:00Z
+1033,C:SVCGBP,Salvadoran colón - Pound sterling,fx,global,True,GBP,Pound sterling,SVC,Salvadoran colón,2017-01-01T00:00:00Z
+1034,C:SVCUSD,Salvadoran colón - United States Dollar,fx,global,True,USD,United States Dollar,SVC,Salvadoran colón,2017-01-01T00:00:00Z
+1035,C:SZLCHF,Swazi lilangeni - Swiss franc,fx,global,True,CHF,Swiss franc,SZL,Swazi lilangeni,2017-01-01T00:00:00Z
+1036,C:SZLEUR,Swazi lilangeni - Euro,fx,global,True,EUR,Euro,SZL,Swazi lilangeni,2017-01-01T00:00:00Z
+1037,C:SZLGBP,Swazi lilangeni - Pound sterling,fx,global,True,GBP,Pound sterling,SZL,Swazi lilangeni,2017-01-01T00:00:00Z
+1038,C:SZLUSD,Swazi lilangeni - United States Dollar,fx,global,True,USD,United States Dollar,SZL,Swazi lilangeni,2017-01-01T00:00:00Z
+1039,C:SZLZAR,Swazi lilangeni - South African rand,fx,global,True,ZAR,South African rand,SZL,Swazi lilangeni,2017-01-01T00:00:00Z
+1040,C:THBAUD,Thai baht - Australian dollar,fx,global,True,AUD,Australian dollar,THB,Thai baht,2017-01-01T00:00:00Z
+1041,C:THBCAD,Thai baht - Canadian dollar,fx,global,True,CAD,Canadian dollar,THB,Thai baht,2017-01-01T00:00:00Z
+1042,C:THBCHF,Thai baht - Swiss franc,fx,global,True,CHF,Swiss franc,THB,Thai baht,2017-01-01T00:00:00Z
+1043,C:THBCNY,Thai baht - Chinese yuan,fx,global,True,CNY,Chinese yuan,THB,Thai baht,2017-01-01T00:00:00Z
+1044,C:THBEUR,Thai baht - Euro,fx,global,True,EUR,Euro,THB,Thai baht,2017-01-01T00:00:00Z
+1045,C:THBGBP,Thai baht - Pound sterling,fx,global,True,GBP,Pound sterling,THB,Thai baht,2017-01-01T00:00:00Z
+1046,C:THBHKD,Thai baht - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,THB,Thai baht,2017-01-01T00:00:00Z
+1047,C:THBIDR,Thai baht - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,THB,Thai baht,2017-01-01T00:00:00Z
+1048,C:THBINR,Thai baht - Indian rupee,fx,global,True,INR,Indian rupee,THB,Thai baht,2017-01-01T00:00:00Z
+1049,C:THBJPY,Thai baht - Japanese yen,fx,global,True,JPY,Japanese yen,THB,Thai baht,2017-01-01T00:00:00Z
+1050,C:THBKRW,Thai baht - South Korean won,fx,global,True,KRW,South Korean won,THB,Thai baht,2017-01-01T00:00:00Z
+1051,C:THBMYR,Thai baht - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,THB,Thai baht,2017-01-01T00:00:00Z
+1052,C:THBNZD,Thai baht - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,THB,Thai baht,2017-01-01T00:00:00Z
+1053,C:THBPKR,Thai baht - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,THB,Thai baht,2017-01-01T00:00:00Z
+1054,C:THBSGD,Thai baht - Singapore dollar,fx,global,True,SGD,Singapore dollar,THB,Thai baht,2017-01-01T00:00:00Z
+1055,C:THBTWD,Thai baht - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,THB,Thai baht,2017-01-01T00:00:00Z
+1056,C:THBUSD,Thai baht - United States Dollar,fx,global,True,USD,United States Dollar,THB,Thai baht,2017-01-01T00:00:00Z
+1057,C:THBZAR,Thai baht - South African rand,fx,global,True,ZAR,South African rand,THB,Thai baht,2017-01-01T00:00:00Z
+1058,C:TJSUSD,Tajikistani somoni - United States Dollar,fx,global,True,USD,United States Dollar,TJS,Tajikistani somoni,2017-01-01T00:00:00Z
+1059,C:TMTUSD,Turkmenistani manat - United States Dollar,fx,global,True,USD,United States Dollar,TMT,Turkmenistani manat,2017-01-01T00:00:00Z
+1060,C:TNDGBP,Tunisian dinar - Pound sterling,fx,global,True,GBP,Pound sterling,TND,Tunisian dinar,2017-01-01T00:00:00Z
+1061,C:TNDUSD,Tunisian dinar - United States Dollar,fx,global,True,USD,United States Dollar,TND,Tunisian dinar,2017-01-01T00:00:00Z
+1062,C:TNDZAR,Tunisian dinar - South African rand,fx,global,True,ZAR,South African rand,TND,Tunisian dinar,2017-01-01T00:00:00Z
+1063,C:TRYCHF,Turkish lira - Swiss franc,fx,global,True,CHF,Swiss franc,TRY,Turkish lira,2017-01-01T00:00:00Z
+1064,C:TRYDKK,Turkish lira - Danish krone,fx,global,True,DKK,Danish krone,TRY,Turkish lira,2017-01-01T00:00:00Z
+1065,C:TRYJPY,Turkish lira - Japanese yen,fx,global,True,JPY,Japanese yen,TRY,Turkish lira,2017-01-01T00:00:00Z
+1066,C:TRYPLN,Turkish lira - Polish złoty,fx,global,True,PLN,Polish złoty,TRY,Turkish lira,2017-01-01T00:00:00Z
+1067,C:TRYSGD,Turkish lira - Singapore dollar,fx,global,True,SGD,Singapore dollar,TRY,Turkish lira,2017-01-01T00:00:00Z
+1068,C:TRYUSD,Turkish lira - United States Dollar,fx,global,True,USD,United States Dollar,TRY,Turkish lira,2017-01-01T00:00:00Z
+1069,C:TRYZAR,Turkish lira - South African rand,fx,global,True,ZAR,South African rand,TRY,Turkish lira,2017-01-01T00:00:00Z
+1070,C:TTDGBP,Trinidad and Tobago dollar - Pound sterling,fx,global,True,GBP,Pound sterling,TTD,Trinidad and Tobago dollar,2017-01-01T00:00:00Z
+1071,C:TTDUSD,Trinidad and Tobago dollar - United States Dollar,fx,global,True,USD,United States Dollar,TTD,Trinidad and Tobago dollar,2017-01-01T00:00:00Z
+1072,C:TWDAUD,New Taiwan dollar - Australian dollar,fx,global,True,AUD,Australian dollar,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1073,C:TWDCAD,New Taiwan dollar - Canadian dollar,fx,global,True,CAD,Canadian dollar,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1074,C:TWDCHF,New Taiwan dollar - Swiss franc,fx,global,True,CHF,Swiss franc,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1075,C:TWDCNY,New Taiwan dollar - Chinese yuan,fx,global,True,CNY,Chinese yuan,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1076,C:TWDDKK,New Taiwan dollar - Danish krone,fx,global,True,DKK,Danish krone,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1077,C:TWDEUR,New Taiwan dollar - Euro,fx,global,True,EUR,Euro,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1078,C:TWDGBP,New Taiwan dollar - Pound sterling,fx,global,True,GBP,Pound sterling,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1079,C:TWDHKD,New Taiwan dollar - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1080,C:TWDIDR,New Taiwan dollar - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1081,C:TWDINR,New Taiwan dollar - Indian rupee,fx,global,True,INR,Indian rupee,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1082,C:TWDJPY,New Taiwan dollar - Japanese yen,fx,global,True,JPY,Japanese yen,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1083,C:TWDKRW,New Taiwan dollar - South Korean won,fx,global,True,KRW,South Korean won,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1084,C:TWDMYR,New Taiwan dollar - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1085,C:TWDNZD,New Taiwan dollar - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1086,C:TWDPKR,New Taiwan dollar - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1087,C:TWDSEK,New Taiwan dollar - Swedish krona,fx,global,True,SEK,Swedish krona,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1088,C:TWDSGD,New Taiwan dollar - Singapore dollar,fx,global,True,SGD,Singapore dollar,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1089,C:TWDTHB,New Taiwan dollar - Thai baht,fx,global,True,THB,Thai baht,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1090,C:TWDUSD,New Taiwan dollar - United States Dollar,fx,global,True,USD,United States Dollar,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1091,C:TWDZAR,New Taiwan dollar - South African rand,fx,global,True,ZAR,South African rand,TWD,New Taiwan dollar,2017-01-01T00:00:00Z
+1092,C:TZSGBP,Tanzanian shilling - Pound sterling,fx,global,True,GBP,Pound sterling,TZS,Tanzanian shilling,2017-01-01T00:00:00Z
+1093,C:TZSUSD,Tanzanian shilling - United States Dollar,fx,global,True,USD,United States Dollar,TZS,Tanzanian shilling,2017-01-01T00:00:00Z
+1094,C:TZSZAR,Tanzanian shilling - South African rand,fx,global,True,ZAR,South African rand,TZS,Tanzanian shilling,2017-01-01T00:00:00Z
+1095,C:UAHDKK,Ukrainian hryvnia - Danish krone,fx,global,True,DKK,Danish krone,UAH,Ukrainian hryvnia,2017-01-01T00:00:00Z
+1096,C:UAHPLN,Ukrainian hryvnia - Polish złoty,fx,global,True,PLN,Polish złoty,UAH,Ukrainian hryvnia,2017-01-01T00:00:00Z
+1097,C:UAHUSD,Ukrainian hryvnia - United States Dollar,fx,global,True,USD,United States Dollar,UAH,Ukrainian hryvnia,2017-01-01T00:00:00Z
+1098,C:UGXZAR,Ugandan shilling - South African rand,fx,global,True,ZAR,South African rand,UGX,Ugandan shilling,2017-01-01T00:00:00Z
+1099,C:USDAED,United States dollar - United Arab Emirates dirham,fx,global,True,AED,United Arab Emirates dirham,USD,United States dollar,2017-01-01T00:00:00Z
+1100,C:USDALL,United States dollar - Albanian lek,fx,global,True,ALL,Albanian lek,USD,United States dollar,2017-01-01T00:00:00Z
+1101,C:USDARS,United States dollar - Argentine peso,fx,global,True,ARS,Argentine peso,USD,United States dollar,2017-01-01T00:00:00Z
+1102,C:USDAUD,United States dollar - Australian dollar,fx,global,True,AUD,Australian dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1103,C:USDAWG,United States dollar - Aruban florin,fx,global,True,AWG,Aruban florin,USD,United States dollar,2017-01-01T00:00:00Z
+1104,C:USDBAM,United States dollar - Bosnia and Herzegovina convertible mark,fx,global,True,BAM,Bosnia and Herzegovina convertible mark,USD,United States dollar,2017-01-01T00:00:00Z
+1105,C:USDBBD,United States dollar - Barbados dollar,fx,global,True,BBD,Barbados dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1106,C:USDBDT,United States dollar - Bangladeshi taka,fx,global,True,BDT,Bangladeshi taka,USD,United States dollar,2017-01-01T00:00:00Z
+1107,C:USDBGN,United States dollar - Bulgarian lev,fx,global,True,BGN,Bulgarian lev,USD,United States dollar,2017-01-01T00:00:00Z
+1108,C:USDBHD,United States dollar - Bahraini dinar,fx,global,True,BHD,Bahraini dinar,USD,United States dollar,2017-01-01T00:00:00Z
+1109,C:USDBIF,United States dollar - Burundian franc,fx,global,True,BIF,Burundian franc,USD,United States dollar,2017-01-01T00:00:00Z
+1110,C:USDBND,United States dollar - Brunei dollar,fx,global,True,BND,Brunei dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1111,C:USDBOB,United States dollar - Boliviano,fx,global,True,BOB,Boliviano,USD,United States dollar,2017-01-01T00:00:00Z
+1112,C:USDBRL,United States dollar - Brazilian real,fx,global,True,BRL,Brazilian real,USD,United States dollar,2017-01-01T00:00:00Z
+1113,C:USDBSD,United States dollar - Bahamian dollar,fx,global,True,BSD,Bahamian dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1114,C:USDBWP,United States dollar - Botswana pula,fx,global,True,BWP,Botswana pula,USD,United States dollar,2017-01-01T00:00:00Z
+1115,C:USDBYR,United States dollar - Belarusian ruble,fx,global,True,BYR,Belarusian ruble,USD,United States dollar,2017-01-01T00:00:00Z
+1116,C:USDBZD,United States dollar - Belize dollar,fx,global,True,BZD,Belize dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1117,C:USDCAD,United States dollar - Canadian dollar,fx,global,True,CAD,Canadian dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1118,C:USDCDF,United States dollar - Congolese franc,fx,global,True,CDF,Congolese franc,USD,United States dollar,2017-01-01T00:00:00Z
+1119,C:USDCHF,United States dollar - Swiss franc,fx,global,True,CHF,Swiss franc,USD,United States dollar,2017-01-01T00:00:00Z
+1120,C:USDCLP,United States dollar - Chilean peso,fx,global,True,CLP,Chilean peso,USD,United States dollar,2017-01-01T00:00:00Z
+1121,C:USDCNH,United States dollar - Chinese yuan,fx,global,True,CNH,Chinese yuan,USD,United States dollar,2017-01-01T00:00:00Z
+1122,C:USDCNY,United States dollar - Chinese yuan,fx,global,True,CNY,Chinese yuan,USD,United States dollar,2017-01-01T00:00:00Z
+1123,C:USDCOP,United States dollar - Colombian peso,fx,global,True,COP,Colombian peso,USD,United States dollar,2017-01-01T00:00:00Z
+1124,C:USDCRC,United States dollar - Costa Rican colon,fx,global,True,CRC,Costa Rican colon,USD,United States dollar,2017-01-01T00:00:00Z
+1125,C:USDCUP,United States dollar - Cuban peso,fx,global,True,CUP,Cuban peso,USD,United States dollar,2017-01-01T00:00:00Z
+1126,C:USDCVE,United States dollar - Cape Verde escudo,fx,global,True,CVE,Cape Verde escudo,USD,United States dollar,2017-01-01T00:00:00Z
+1127,C:USDCZK,United States dollar - Czech koruna,fx,global,True,CZK,Czech koruna,USD,United States dollar,2017-01-01T00:00:00Z
+1128,C:USDDJF,United States dollar - Djiboutian franc,fx,global,True,DJF,Djiboutian franc,USD,United States dollar,2017-01-01T00:00:00Z
+1129,C:USDDKK,United States dollar - Danish krone,fx,global,True,DKK,Danish krone,USD,United States dollar,2017-01-01T00:00:00Z
+1130,C:USDDOP,United States dollar - Dominican peso,fx,global,True,DOP,Dominican peso,USD,United States dollar,2017-01-01T00:00:00Z
+1131,C:USDDZD,United States dollar - Algerian dinar,fx,global,True,DZD,Algerian dinar,USD,United States dollar,2017-01-01T00:00:00Z
+1132,C:USDEGP,United States dollar - Egyptian pound,fx,global,True,EGP,Egyptian pound,USD,United States dollar,2017-01-01T00:00:00Z
+1133,C:USDETB,United States dollar - Ethiopian birr,fx,global,True,ETB,Ethiopian birr,USD,United States dollar,2017-01-01T00:00:00Z
+1134,C:USDEUR,United States dollar - Euro,fx,global,True,EUR,Euro,USD,United States dollar,2017-01-01T00:00:00Z
+1135,C:USDFJD,United States dollar - Fiji dollar,fx,global,True,FJD,Fiji dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1136,C:USDGBP,United States dollar - Pound sterling,fx,global,True,GBP,Pound sterling,USD,United States dollar,2017-01-01T00:00:00Z
+1137,C:USDGHS,United States dollar - Ghanaian cedi,fx,global,True,GHS,Ghanaian cedi,USD,United States dollar,2017-01-01T00:00:00Z
+1138,C:USDGMD,United States dollar - Gambian dalasi,fx,global,True,GMD,Gambian dalasi,USD,United States dollar,2017-01-01T00:00:00Z
+1139,C:USDGNF,United States dollar - Guinean franc,fx,global,True,GNF,Guinean franc,USD,United States dollar,2017-01-01T00:00:00Z
+1140,C:USDGTQ,United States dollar - Guatemalan quetzal,fx,global,True,GTQ,Guatemalan quetzal,USD,United States dollar,2017-01-01T00:00:00Z
+1141,C:USDGYD,United States dollar - Guyanese dollar,fx,global,True,GYD,Guyanese dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1142,C:USDHKD,United States dollar - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1143,C:USDHNL,United States dollar - Honduran lempira,fx,global,True,HNL,Honduran lempira,USD,United States dollar,2017-01-01T00:00:00Z
+1144,C:USDHRK,United States dollar - Croatian kuna,fx,global,True,HRK,Croatian kuna,USD,United States dollar,2017-01-01T00:00:00Z
+1145,C:USDHTG,United States dollar - Haitian gourde,fx,global,True,HTG,Haitian gourde,USD,United States dollar,2017-01-01T00:00:00Z
+1146,C:USDHUF,United States dollar - Hungarian forint,fx,global,True,HUF,Hungarian forint,USD,United States dollar,2017-01-01T00:00:00Z
+1147,C:USDIDR,United States dollar - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,USD,United States dollar,2017-01-01T00:00:00Z
+1148,C:USDILS,United States dollar - Israeli new shekel,fx,global,True,ILS,Israeli new shekel,USD,United States dollar,2017-01-01T00:00:00Z
+1149,C:USDINR,United States dollar - Indian rupee,fx,global,True,INR,Indian rupee,USD,United States dollar,2017-01-01T00:00:00Z
+1150,C:USDIQD,United States dollar - Iraqi dinar,fx,global,True,IQD,Iraqi dinar,USD,United States dollar,2017-01-01T00:00:00Z
+1151,C:USDISK,United States dollar - Icelandic króna,fx,global,True,ISK,Icelandic króna,USD,United States dollar,2017-01-01T00:00:00Z
+1152,C:USDJMD,United States dollar - Jamaican dollar,fx,global,True,JMD,Jamaican dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1153,C:USDJOD,United States dollar - Jordanian dinar,fx,global,True,JOD,Jordanian dinar,USD,United States dollar,2017-01-01T00:00:00Z
+1154,C:USDJPY,United States dollar - Japanese yen,fx,global,True,JPY,Japanese yen,USD,United States dollar,2017-01-01T00:00:00Z
+1155,C:USDKES,United States dollar - Kenyan shilling,fx,global,True,KES,Kenyan shilling,USD,United States dollar,2017-01-01T00:00:00Z
+1156,C:USDKHR,United States dollar - Cambodian riel,fx,global,True,KHR,Cambodian riel,USD,United States dollar,2017-01-01T00:00:00Z
+1157,C:USDKMF,United States dollar - Comoro franc,fx,global,True,KMF,Comoro franc,USD,United States dollar,2017-01-01T00:00:00Z
+1158,C:USDKRW,United States dollar - South Korean won,fx,global,True,KRW,South Korean won,USD,United States dollar,2017-01-01T00:00:00Z
+1159,C:USDKWD,United States dollar - Kuwaiti dinar,fx,global,True,KWD,Kuwaiti dinar,USD,United States dollar,2017-01-01T00:00:00Z
+1160,C:USDKYD,United States dollar - Cayman Islands dollar,fx,global,True,KYD,Cayman Islands dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1161,C:USDKZT,United States dollar - Kazakhstani tenge,fx,global,True,KZT,Kazakhstani tenge,USD,United States dollar,2017-01-01T00:00:00Z
+1162,C:USDLAK,United States dollar - Lao kip,fx,global,True,LAK,Lao kip,USD,United States dollar,2017-01-01T00:00:00Z
+1163,C:USDLBP,United States dollar - Lebanese pound,fx,global,True,LBP,Lebanese pound,USD,United States dollar,2017-01-01T00:00:00Z
+1164,C:USDLKR,United States dollar - Sri Lankan rupee,fx,global,True,LKR,Sri Lankan rupee,USD,United States dollar,2017-01-01T00:00:00Z
+1165,C:USDLRD,United States dollar - Liberian dollar,fx,global,True,LRD,Liberian dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1166,C:USDLSL,United States dollar - Lesotho loti,fx,global,True,LSL,Lesotho loti,USD,United States dollar,2017-01-01T00:00:00Z
+1167,C:USDLYD,United States dollar - Libyan dinar,fx,global,True,LYD,Libyan dinar,USD,United States dollar,2017-01-01T00:00:00Z
+1168,C:USDMAD,United States dollar - Moroccan dirham,fx,global,True,MAD,Moroccan dirham,USD,United States dollar,2017-01-01T00:00:00Z
+1169,C:USDMDL,United States dollar - Moldovan leu,fx,global,True,MDL,Moldovan leu,USD,United States dollar,2017-01-01T00:00:00Z
+1170,C:USDMGA,United States dollar - Malagasy ariary,fx,global,True,MGA,Malagasy ariary,USD,United States dollar,2017-01-01T00:00:00Z
+1171,C:USDMKD,United States dollar - Macedonian denar,fx,global,True,MKD,Macedonian denar,USD,United States dollar,2017-01-01T00:00:00Z
+1172,C:USDMMK,United States dollar - Myanma kyat,fx,global,True,MMK,Myanma kyat,USD,United States dollar,2017-01-01T00:00:00Z
+1173,C:USDMOP,United States dollar - Macanese pataca,fx,global,True,MOP,Macanese pataca,USD,United States dollar,2017-01-01T00:00:00Z
+1174,C:USDMRO,United States dollar - Mauritanian ouguiya,fx,global,True,MRO,Mauritanian ouguiya,USD,United States dollar,2017-01-01T00:00:00Z
+1175,C:USDMUR,United States dollar - Mauritian rupee,fx,global,True,MUR,Mauritian rupee,USD,United States dollar,2017-01-01T00:00:00Z
+1176,C:USDMVR,United States dollar - Maldivian rufiyaa,fx,global,True,MVR,Maldivian rufiyaa,USD,United States dollar,2017-01-01T00:00:00Z
+1177,C:USDMWK,United States dollar - Malawian kwacha,fx,global,True,MWK,Malawian kwacha,USD,United States dollar,2017-01-01T00:00:00Z
+1178,C:USDMXN,United States dollar - Mexican peso,fx,global,True,MXN,Mexican peso,USD,United States dollar,2017-01-01T00:00:00Z
+1179,C:USDMYR,United States dollar - Malaysian ringgit,fx,global,True,MYR,Malaysian ringgit,USD,United States dollar,2017-01-01T00:00:00Z
+1180,C:USDMZN,United States dollar - Mozambican metical,fx,global,True,MZN,Mozambican metical,USD,United States dollar,2017-01-01T00:00:00Z
+1181,C:USDNAD,United States dollar - Namibian dollar,fx,global,True,NAD,Namibian dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1182,C:USDNGN,United States dollar - Nigerian naira,fx,global,True,NGN,Nigerian naira,USD,United States dollar,2017-01-01T00:00:00Z
+1183,C:USDNIO,United States dollar - Nicaraguan córdoba,fx,global,True,NIO,Nicaraguan córdoba,USD,United States dollar,2017-01-01T00:00:00Z
+1184,C:USDNOK,United States dollar - Norwegian krone,fx,global,True,NOK,Norwegian krone,USD,United States dollar,2017-01-01T00:00:00Z
+1185,C:USDNPR,United States dollar - Nepalese rupee,fx,global,True,NPR,Nepalese rupee,USD,United States dollar,2017-01-01T00:00:00Z
+1186,C:USDNZD,United States dollar - New Zealand dollar,fx,global,True,NZD,New Zealand dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1187,C:USDOMR,United States dollar - Omani rial,fx,global,True,OMR,Omani rial,USD,United States dollar,2017-01-01T00:00:00Z
+1188,C:USDPAB,United States dollar - Panamanian balboa,fx,global,True,PAB,Panamanian balboa,USD,United States dollar,2017-01-01T00:00:00Z
+1189,C:USDPEN,United States dollar - Peruvian nuevo sol,fx,global,True,PEN,Peruvian nuevo sol,USD,United States dollar,2017-01-01T00:00:00Z
+1190,C:USDPGK,United States dollar - Papua New Guinean kina,fx,global,True,PGK,Papua New Guinean kina,USD,United States dollar,2017-01-01T00:00:00Z
+1191,C:USDPHP,United States dollar - Philippine peso,fx,global,True,PHP,Philippine peso,USD,United States dollar,2017-01-01T00:00:00Z
+1192,C:USDPKR,United States dollar - Pakistani rupee,fx,global,True,PKR,Pakistani rupee,USD,United States dollar,2017-01-01T00:00:00Z
+1193,C:USDPLN,United States dollar - Polish złoty,fx,global,True,PLN,Polish złoty,USD,United States dollar,2017-01-01T00:00:00Z
+1194,C:USDPYG,United States dollar - Paraguayan guaraní,fx,global,True,PYG,Paraguayan guaraní,USD,United States dollar,2017-01-01T00:00:00Z
+1195,C:USDQAR,United States dollar - Qatari riyal,fx,global,True,QAR,Qatari riyal,USD,United States dollar,2017-01-01T00:00:00Z
+1196,C:USDRON,United States dollar - Romanian new leu,fx,global,True,RON,Romanian new leu,USD,United States dollar,2017-01-01T00:00:00Z
+1197,C:USDRSD,United States dollar - Serbian dinar,fx,global,True,RSD,Serbian dinar,USD,United States dollar,2017-01-01T00:00:00Z
+1198,C:USDRUB,United States dollar - Russian rouble,fx,global,True,RUB,Russian rouble,USD,United States dollar,2017-01-01T00:00:00Z
+1199,C:USDRWF,United States dollar - Rwandan franc,fx,global,True,RWF,Rwandan franc,USD,United States dollar,2017-01-01T00:00:00Z
+1200,C:USDSAR,United States dollar - Saudi riyal,fx,global,True,SAR,Saudi riyal,USD,United States dollar,2017-01-01T00:00:00Z
+1201,C:USDSCR,United States dollar - Seychelles rupee,fx,global,True,SCR,Seychelles rupee,USD,United States dollar,2017-01-01T00:00:00Z
+1202,C:USDSDD,United States dollar - Sudanese dinar,fx,global,True,SDD,Sudanese dinar,USD,United States dollar,2017-01-01T00:00:00Z
+1203,C:USDSDG,United States dollar - Sudanese pound,fx,global,True,SDG,Sudanese pound,USD,United States dollar,2017-01-01T00:00:00Z
+1204,C:USDSEK,United States dollar - Swedish krona,fx,global,True,SEK,Swedish krona,USD,United States dollar,2017-01-01T00:00:00Z
+1205,C:USDSGD,United States dollar - Singapore dollar,fx,global,True,SGD,Singapore dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1206,C:USDSHP,United States dollar - Saint Helena pound,fx,global,True,SHP,Saint Helena pound,USD,United States dollar,2017-01-01T00:00:00Z
+1207,C:USDSKK,United States dollar - Slovak koruna,fx,global,True,SKK,Slovak koruna,USD,United States dollar,2017-01-01T00:00:00Z
+1208,C:USDSLL,United States dollar - Sierra Leonean leone,fx,global,True,SLL,Sierra Leonean leone,USD,United States dollar,2017-01-01T00:00:00Z
+1209,C:USDSOS,United States dollar - Somali shilling,fx,global,True,SOS,Somali shilling,USD,United States dollar,2017-01-01T00:00:00Z
+1210,C:USDSTD,United States dollar - São Tomé and Príncipe,fx,global,True,STD,São Tomé and Príncipe,USD,United States dollar,2017-01-01T00:00:00Z
+1211,C:USDSVC,United States dollar - Salvadoran colón,fx,global,True,SVC,Salvadoran colón,USD,United States dollar,2017-01-01T00:00:00Z
+1212,C:USDSZL,United States dollar - Swazi lilangeni,fx,global,True,SZL,Swazi lilangeni,USD,United States dollar,2017-01-01T00:00:00Z
+1213,C:USDTHB,United States dollar - Thai baht,fx,global,True,THB,Thai baht,USD,United States dollar,2017-01-01T00:00:00Z
+1214,C:USDTJS,United States dollar - Tajikistani somoni,fx,global,True,TJS,Tajikistani somoni,USD,United States dollar,2017-01-01T00:00:00Z
+1215,C:USDTMT,United States dollar - Turkmenistani manat,fx,global,True,TMT,Turkmenistani manat,USD,United States dollar,2017-01-01T00:00:00Z
+1216,C:USDTND,United States dollar - Tunisian dinar,fx,global,True,TND,Tunisian dinar,USD,United States dollar,2017-01-01T00:00:00Z
+1217,C:USDTRY,United States dollar - Turkish lira,fx,global,True,TRY,Turkish lira,USD,United States dollar,2017-01-01T00:00:00Z
+1218,C:USDTTD,United States dollar - Trinidad and Tobago dollar,fx,global,True,TTD,Trinidad and Tobago dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1219,C:USDTWD,United States dollar - New Taiwan dollar,fx,global,True,TWD,New Taiwan dollar,USD,United States dollar,2017-01-01T00:00:00Z
+1220,C:USDTZS,United States dollar - Tanzanian shilling,fx,global,True,TZS,Tanzanian shilling,USD,United States dollar,2017-01-01T00:00:00Z
+1221,C:USDUAH,United States dollar - Ukrainian hryvnia,fx,global,True,UAH,Ukrainian hryvnia,USD,United States dollar,2017-01-01T00:00:00Z
+1222,C:USDUGX,United States dollar - Ugandan shilling,fx,global,True,UGX,Ugandan shilling,USD,United States dollar,2017-01-01T00:00:00Z
+1223,C:USDUYU,United States dollar - Uruguayan peso,fx,global,True,UYU,Uruguayan peso,USD,United States dollar,2017-01-01T00:00:00Z
+1224,C:USDUZS,United States dollar - Uzbekistan som,fx,global,True,UZS,Uzbekistan som,USD,United States dollar,2017-01-01T00:00:00Z
+1225,C:USDVEF,United States dollar - Venezuelan bolí,fx,global,True,VEF,Venezuelan bolí,USD,United States dollar,2017-01-01T00:00:00Z
+1226,C:USDVND,United States dollar - Vietnamese dong,fx,global,True,VND,Vietnamese dong,USD,United States dollar,2017-01-01T00:00:00Z
+1227,C:USDXPF,United States dollar - CFP franc,fx,global,True,XPF,CFP franc,USD,United States dollar,2017-01-01T00:00:00Z
+1228,C:USDYER,United States dollar - Yemeni rial,fx,global,True,YER,Yemeni rial,USD,United States dollar,2017-01-01T00:00:00Z
+1229,C:USDZAR,United States dollar - South African rand,fx,global,True,ZAR,South African rand,USD,United States dollar,2017-01-01T00:00:00Z
+1230,C:USDZMW,United States dollar - Zambian kwacha,fx,global,True,ZMW,Zambian kwacha,USD,United States dollar,2017-01-01T00:00:00Z
+1231,C:UYUEUR,Uruguayan peso - Euro,fx,global,True,EUR,Euro,UYU,Uruguayan peso,2017-01-01T00:00:00Z
+1232,C:UYUGBP,Uruguayan peso - Pound sterling,fx,global,True,GBP,Pound sterling,UYU,Uruguayan peso,2017-01-01T00:00:00Z
+1233,C:UYUUSD,Uruguayan peso - United States Dollar,fx,global,True,USD,United States Dollar,UYU,Uruguayan peso,2017-01-01T00:00:00Z
+1234,C:UZSCHF,Uzbekistan som - Swiss franc,fx,global,True,CHF,Swiss franc,UZS,Uzbekistan som,2017-01-01T00:00:00Z
+1235,C:UZSUSD,Uzbekistan som - United States Dollar,fx,global,True,USD,United States Dollar,UZS,Uzbekistan som,2017-01-01T00:00:00Z
+1236,C:VEFEUR, - ,fx,global,True,EUR,,VEF,,2017-01-01T00:00:00Z
+1237,C:VEFGBP, - ,fx,global,True,GBP,,VEF,,2017-01-01T00:00:00Z
+1238,C:VEFUSD, - United States Dollar,fx,global,True,USD,United States Dollar,VEF,,2017-01-01T00:00:00Z
+1239,C:VNDCAD,Vietnamese dong - Canadian dollar,fx,global,True,CAD,Canadian dollar,VND,Vietnamese dong,2017-01-01T00:00:00Z
+1240,C:VNDEUR,Vietnamese dong - Euro,fx,global,True,EUR,Euro,VND,Vietnamese dong,2017-01-01T00:00:00Z
+1241,C:VNDJPY,Vietnamese dong - Japanese yen,fx,global,True,JPY,Japanese yen,VND,Vietnamese dong,2017-01-01T00:00:00Z
+1242,C:VNDUSD,Vietnamese dong - United States Dollar,fx,global,True,USD,United States Dollar,VND,Vietnamese dong,2017-01-01T00:00:00Z
+1243,C:VRLCHF,Vreneli 10F. - Swiss franc,fx,global,True,CHF,Swiss franc,VRL,Vreneli 10F.,2017-01-01T00:00:00Z
+1244,C:VRNCHF,Vreneli 20F - Swiss franc,fx,global,True,CHF,Swiss franc,VRN,Vreneli 20F,2017-01-01T00:00:00Z
+1245,C:XAGARS,Silver (one troy ounce) - Argentine peso,fx,global,True,ARS,Argentine peso,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1246,C:XAGAUD,Silver (one troy ounce) - Australian dollar,fx,global,True,AUD,Australian dollar,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1247,C:XAGBRL,Silver (one troy ounce) - Brazilian real,fx,global,True,BRL,Brazilian real,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1248,C:XAGCAD,Silver (one troy ounce) - Canadian dollar,fx,global,True,CAD,Canadian dollar,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1249,C:XAGCNY,Silver (one troy ounce) - Chinese yuan,fx,global,True,CNY,Chinese yuan,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1250,C:XAGEUR,Silver (one troy ounce) - Euro,fx,global,True,EUR,Euro,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1251,C:XAGGBP,Silver (one troy ounce) - Pound sterling,fx,global,True,GBP,Pound sterling,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1252,C:XAGHKD,Silver (one troy ounce) - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1253,C:XAGIDR,Silver (one troy ounce) - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1254,C:XAGINR,Silver (one troy ounce) - Indian rupee,fx,global,True,INR,Indian rupee,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1255,C:XAGJPY,Silver (one troy ounce) - Japanese yen,fx,global,True,JPY,Japanese yen,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1256,C:XAGKCHF,Silver (kg) - Swiss franc,fx,global,True,CHF,Swiss franc,XAGK,Silver (kg),2017-01-01T00:00:00Z
+1257,C:XAGKRW,Silver (one troy ounce) - South Korean won,fx,global,True,KRW,South Korean won,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1258,C:XAGMXN,Silver (one troy ounce) - Mexican peso,fx,global,True,MXN,Mexican peso,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1259,C:XAGRUB,Silver (one troy ounce) - Russian rouble,fx,global,True,RUB,Russian rouble,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1260,C:XAGSAR,Silver (one troy ounce) - Saudi riyal,fx,global,True,SAR,Saudi riyal,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1261,C:XAGTRY,Silver (one troy ounce) - Turkish lira,fx,global,True,TRY,Turkish lira,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1262,C:XAGUSD,Silver (one troy ounce) - United States Dollar,fx,global,True,USD,United States Dollar,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1263,C:XAGZAR,Silver (one troy ounce) - South African rand,fx,global,True,ZAR,South African rand,XAG,Silver (one troy ounce),2017-01-01T00:00:00Z
+1264,C:XAUARS,Gold (one troy ounce) - Argentine peso,fx,global,True,ARS,Argentine peso,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1265,C:XAUAUD,Gold (one troy ounce) - Australian dollar,fx,global,True,AUD,Australian dollar,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1266,C:XAUBRL,Gold (one troy ounce) - Brazilian real,fx,global,True,BRL,Brazilian real,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1267,C:XAUCAD,Gold (one troy ounce) - Canadian dollar,fx,global,True,CAD,Canadian dollar,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1268,C:XAUCNY,Gold (one troy ounce) - Chinese yuan,fx,global,True,CNY,Chinese yuan,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1269,C:XAUEUR,Gold (one troy ounce) - Euro,fx,global,True,EUR,Euro,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1270,C:XAUGBP,Gold (one troy ounce) - Pound sterling,fx,global,True,GBP,Pound sterling,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1271,C:XAUHKD,Gold (one troy ounce) - Hong Kong dollar,fx,global,True,HKD,Hong Kong dollar,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1272,C:XAUIDR,Gold (one troy ounce) - Indonesian rupiah,fx,global,True,IDR,Indonesian rupiah,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1273,C:XAUINR,Gold (one troy ounce) - Indian rupee,fx,global,True,INR,Indian rupee,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1274,C:XAUJPY,Gold (one troy ounce) - Japanese yen,fx,global,True,JPY,Japanese yen,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1275,C:XAUKCHF,Gold (kg) - Swiss franc,fx,global,True,CHF,Swiss franc,XAUK,Gold (kg),2017-01-01T00:00:00Z
+1276,C:XAUKRW,Gold (one troy ounce) - South Korean won,fx,global,True,KRW,South Korean won,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1277,C:XAUMXN,Gold (one troy ounce) - Mexican peso,fx,global,True,MXN,Mexican peso,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1278,C:XAUPLN,Gold (one troy ounce) - Polish złoty,fx,global,True,PLN,Polish złoty,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1279,C:XAURUB,Gold (one troy ounce) - Russian rouble,fx,global,True,RUB,Russian rouble,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1280,C:XAUSAR,Gold (one troy ounce) - Saudi riyal,fx,global,True,SAR,Saudi riyal,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1281,C:XAUTHB,Gold (one troy ounce) - Thai baht,fx,global,True,THB,Thai baht,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1282,C:XAUTRY,Gold (one troy ounce) - Turkish lira,fx,global,True,TRY,Turkish lira,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1283,C:XAUUSD,Gold (one troy ounce) - United States Dollar,fx,global,True,USD,United States Dollar,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1284,C:XAUZAR,Gold (one troy ounce) - South African rand,fx,global,True,ZAR,South African rand,XAU,Gold (one troy ounce),2017-01-01T00:00:00Z
+1285,C:XCDGBP,East Caribbean dollar - Pound sterling,fx,global,True,GBP,Pound sterling,XCD,East Caribbean dollar,2017-01-01T00:00:00Z
+1286,C:XDRISK,Special drawing rights - Icelandic króna,fx,global,True,ISK,Icelandic króna,XDR,Special drawing rights,2017-01-01T00:00:00Z
+1287,C:XPDEUR,Palladium (one troy ounce) - Euro,fx,global,True,EUR,Euro,XPD,Palladium (one troy ounce),2017-01-01T00:00:00Z
+1288,C:XPDGBP,Palladium (one troy ounce) - Pound sterling,fx,global,True,GBP,Pound sterling,XPD,Palladium (one troy ounce),2017-01-01T00:00:00Z
+1289,C:XPDKCHF,Palladium (kg) - Swiss franc,fx,global,True,CHF,Swiss franc,XPDK,Palladium (kg),2017-01-01T00:00:00Z
+1290,C:XPDUSD,Palladium (one troy ounce) - United States Dollar,fx,global,True,USD,United States Dollar,XPD,Palladium (one troy ounce),2017-01-01T00:00:00Z
+1291,C:XPFGBP,CFP franc - Pound sterling,fx,global,True,GBP,Pound sterling,XPF,CFP franc,2017-01-01T00:00:00Z
+1292,C:XPFUSD,CFP franc - United States Dollar,fx,global,True,USD,United States Dollar,XPF,CFP franc,2017-01-01T00:00:00Z
+1293,C:XPTEUR,Platinum (one troy ounce) - Euro,fx,global,True,EUR,Euro,XPT,Platinum (one troy ounce),2017-01-01T00:00:00Z
+1294,C:XPTGBP,Platinum (one troy ounce) - Pound sterling,fx,global,True,GBP,Pound sterling,XPT,Platinum (one troy ounce),2017-01-01T00:00:00Z
+1295,C:XPTKCHF,Platinum (kg) - Swiss franc,fx,global,True,CHF,Swiss franc,XPTK,Platinum (kg),2017-01-01T00:00:00Z
+1296,C:XPTUSD,Platinum (one troy ounce) - United States Dollar,fx,global,True,USD,United States Dollar,XPT,Platinum (one troy ounce),2017-01-01T00:00:00Z
+1297,C:YERGBP,Yemeni rial - Pound sterling,fx,global,True,GBP,Pound sterling,YER,Yemeni rial,2017-01-01T00:00:00Z
+1298,C:YERUSD,Yemeni rial - United States Dollar,fx,global,True,USD,United States Dollar,YER,Yemeni rial,2017-01-01T00:00:00Z
